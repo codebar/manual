@@ -1,0 +1,10 @@
+title: The manual
+email: hello@codebar.io
+description: "Codebar's manual"
+baseurl: ""
+url: "http://manual.codebar.io"
+twitter_username: codebar
+github_username:  codebar
+markdown: redcarpet
+highlighter: true
+permalink: none
