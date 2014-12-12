@@ -4,10 +4,7 @@ title:  "Mailing List Policy"
 ---
 
 Codebar is a registered charity dedicated to promoting diversity in the technology/development industry.
-We encourage active involvement in the ?tech?community and are keen to communicate ?offers? to our students that would benefit their education and 
-We would love to hear from you but ask you adhere to the following principles should you want to send out communication via our mailing list:
-
-- All organisations that send out communication via the mailing list must respect the confidential details of all Codebar members
+We encourage active involvement in the ?tech?community and are keen to communicate ?offers? to our students that would benefit their education and we would love to hear from you but ask you adhere to the following principles:
 
 - Strictly no offers priced over £200 to be sent to students or coaches  - ?add as a footnote (excluding courses offered at 30% discount (to RRP) to Codebar Students )?
 
