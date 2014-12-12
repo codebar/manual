@@ -6,7 +6,8 @@ title:  "Mailing List Policy"
 Codebar is a registered charity dedicated to promoting diversity in the technology/development industry.
 We encourage active involvement in the ?tech?community and are keen to communicate ?offers? to our students that would benefit their education and we would love to hear from you but ask you adhere to the following principles:
 
-- Strictly no offers priced over £200 to be sent to students or coaches  - ?add as a footnote (excluding courses offered at 30% discount (to RRP) to Codebar Students )?
+- Strictly no paid courses
+	Our goal is to promote diversity in the industry with the help of the community. If you would like to run a free version of your course for Codebar''s students or offer free spots to an event you are running we would love to have a chat with you.
 
 - All offers/courses sent must be aimed at beginner/intermediate level coders/coaches
 
