@@ -10,7 +10,7 @@ header {
   text-align: center;
   background: #774F9F;
   color: #ffffff;
-  margin-top: 0px;
+  padding: 40px;
 }
 
 .content {
@@ -44,9 +44,15 @@ ul.post-list li a {
 }
 
 ul.post-list li {
- margin: 10px 0 10px 0;
+ padding: 10px 5px 10px 5px;
+
 }
 
+hr {
+  border: 0px;
+  height: 1px;
+  background-color: #BBA7CF;
+}
 
 ul.post-list li a:hover {
   color: purple;
