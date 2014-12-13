@@ -6,8 +6,13 @@ body {
 }
 
 header {
+  font-family: "Gabriela",serif;
   text-align: center;
+  background: #774F9F;
+  color: #ffffff;
+
 }
+
 
 .container {
   max-width: 55.55556rem;
