@@ -13,6 +13,10 @@ header {
   padding: 40px;
 }
 
+h1 {
+  font-size: 3em; 
+}
+
 .content {
   margin-left: auto;
   margin-right: auto;
@@ -41,6 +45,7 @@ ul.post-list {
 ul.post-list li a {
   text-decoration:none;
   font-weight: normal;
+  color: #774F9F;
 }
 
 ul.post-list li {
