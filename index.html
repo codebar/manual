@@ -7,9 +7,10 @@ title: Codebar Docs
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
-        <h2>
+        <div class="content">
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
+          
+      </div>
       </li>
     {% endfor %}
   </ul>
