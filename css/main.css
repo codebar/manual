@@ -43,6 +43,12 @@ ul.post-list li a {
   font-weight: normal;
 }
 
+ul.post-list li {
+ margin: 10px 0 10px 0;
+}
+
+
 ul.post-list li a:hover {
   color: purple;
+
 }

@@ -3,14 +3,11 @@ layout: default
 title: Codebar Docs
 ---
 
-<div class="home">
+<div class="content">
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
-        <div class="content">
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-          
-      </div>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
       </li>
     {% endfor %}
   </ul>
