@@ -6,7 +6,22 @@ body {
 }
 
 header {
+  font-family: "Gabriela",serif;
   text-align: center;
+  background: #774F9F;
+  color: #ffffff;
+  padding: 40px;
+}
+
+h1 {
+  font-size: 3em; 
+}
+
+.content {
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  font-size: 1.5em;
 }
 
 .container {
@@ -30,8 +45,21 @@ ul.post-list {
 ul.post-list li a {
   text-decoration:none;
   font-weight: normal;
+  color: #774F9F;
+}
+
+ul.post-list li {
+ padding: 10px 5px 10px 5px;
+
+}
+
+hr {
+  border: 0px;
+  height: 1px;
+  background-color: #BBA7CF;
 }
 
 ul.post-list li a:hover {
   color: purple;
+
 }
