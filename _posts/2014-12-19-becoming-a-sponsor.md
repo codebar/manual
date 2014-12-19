@@ -33,6 +33,7 @@ Other sponsorship benefits include promotion through the Codebar website and our
 ## Sponsorship investment packages
 
 |  | Supporter | Facilitator | Partner |
+| ---- | -----| ------| ----|
 | Logo & link | x  | x | x  |
 | 5 minute slot during the event |  |  x | x |
 | 10 minute slot during the event |  |  |  |
