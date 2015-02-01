@@ -1,0 +1,10 @@
+--
+layout: post
+title: "Codebar's values"
+--
+# Codebar's values
+* **Codebar's goal is to help people under-represented in the tech industry**. We do this via weekly workshops, one-off events, and building a community that connects people of differing skill levels.
+* **Codebar is friendly & encouraging**. The atmosphere should be one of co-operating and non-judgement. People should help each other out, peer-to-peer.
+* **Codebar is accessible**. Events should be free, if possible. If they're not, they should be as cheap as possible.
+* **Codebar exists to help the students**. People already in the tech industry have plenty of groups and offers available to them. We're focused on providing them to beginners. Giveaways, special offers, etc. should place students first.
+* **Codebar is open source**. The website and tutorials are open for anyone to improve them. It's a community effort, not a gift from a small elite.
