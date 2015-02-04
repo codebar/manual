@@ -7,26 +7,26 @@ body {
 
 header {
   font-family: "Gabriela",serif;
-  text-align: center;
-  background: #774F9F;
-  color: #ffffff;
-  padding: 40px;
+  color: #000;
+  padding: 20px 0 0;
+  width: 960px;
+  border-bottom: 1px solid #333;
+  margin-bottom: 50px;
 }
 
 h1 {
-  font-size: 3em; 
+  font-size: 2.5rem;
 }
 
 .content {
-  margin-left: auto;
-  margin-right: auto;
-  width: 80%;
+  margin: 0 auto;
+  width: 960px;
   font-size: 1.5em;
 }
 
 .container {
   max-width: 55.55556rem;
-  margin: 40px auto;
+  margin: 0px auto;
 }
 
 nav ul {
@@ -40,26 +40,22 @@ nav ul li {
 
 ul.post-list {
   list-style: none;
+  margin: 0;
+  padding: 0;
 }
 
 ul.post-list li a {
   text-decoration:none;
   font-weight: normal;
-  color: #774F9F;
+  padding-bottom: 4px;
+  color: #333;
+}
+
+ul.post-list li:hover {
+  color: highlight;
 }
 
 ul.post-list li {
- padding: 10px 5px 10px 5px;
-
+  padding: 10px 5px 10px 5px;
 }
 
-hr {
-  border: 0px;
-  height: 1px;
-  background-color: #BBA7CF;
-}
-
-ul.post-list li a:hover {
-  color: purple;
-
-}
