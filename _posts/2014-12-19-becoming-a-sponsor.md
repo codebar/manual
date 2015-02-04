@@ -26,28 +26,28 @@ Your sponsorship will enable more women, LGBTQ and minorities to get started in 
 Whatever investment you choose, your logo will appear on the Codebar website along with a link to your site. You are also welcome to give a 5 minutes at the beginning of an evening workshop you host in a topic that you think that our students will find interesting and informative.
 
 
-
-### Sponsorship investment packages
+### Sponsorship packages
 
 |  | Supporter | Facilitator | Partner |
 | ---- | -----| ------| ----|
-| Logo & link | x  | x | x  |
-| 5 minute slot during the event |  |  x | x |
-| 10 minute slot during the event |  |  |  |
+| Logo and link | x  | x | x  |
+| 5 minute slot during a workshop | x |  x | x |
+| 10 minute slot during an event |  |  | x |
 | Your marketing collateral distributed at event (stickers) | | x | x |
 | Your banner displayed during the event | | | x |
-| Tweets & Facebook posts during event & regularly during sponsorship period | | | x |
+| Thank you tweet and facebook post | x | x | |
+| Tweets and Facebook posts regularly during sponsorship period | | | x |
 | Investment | £200 | £600 | £1600 |
 
 
 ### How your sponsorship is used
 
-- Food and drink at the event (day or evening)
+- Food and drinks for our weekly workshops (not all of our hosts are able to provide food)
+- Admin and food costs for running courses
 - Printed materials to help get the word out
+- Stickers other swag
 - Travel subsidies for students who live outside the city
 - Administrative support
-- Stickers, t-shirts and other swag
-- After party refreshments
 
 
 Whatever your investment, you can be proud knowing you are an active member of this flourishing sector, enabling people to find jobs, enhance their existing careers and substantially improve the quality of life of those people who are often discriminated against.
