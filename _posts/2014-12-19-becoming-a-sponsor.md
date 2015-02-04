@@ -1,11 +1,9 @@
 ---
 layout: post
-title:  "Sponsorships"
+title:  "Sponsoring Codebar"
 ---
 
-# Codebar Sponsorship
-
-Codebar is a UK-based not-for-profit organisation that has been running weekly front-end developer workshops since 2013.
+Codebar is a not-for-profit organisation that has been running weekly front-end developer workshops since October 2013.
 
 During this time, we have coached over 300 hundred students, with more and more people applying to be students or coaches every week. This has grown our developer base rapidly in a short period and substantially increased demand for coaches. This in turn requires a substantial expansion in sponsorship investment. (Despo – it would be good to have more numbers on students/coaches).
 
@@ -18,7 +16,7 @@ All Codebar’s events are run on a volunteer basis, with every subject expert a
 
 Despite the fact that our events are run on this basis, there are of course still costs associated with both the general running of Codebar as well as our specific events.
 
-## Why should you sponsor?
+### Why should you sponsor?
 
 As a sponsor of any of Codebar’s events, you will be part of the vibrant community facilitating the growth of not only female developers in the UK, but also other under-represented groups. We have a strict yet simple code of conduct that includes more detailed information (use hyperlink).
 You will be helping to promote diversity within this country’s tech sector and be part of an exciting community committed to narrowing the skills gap in this sector. Not only that, but you will also be contributing to the growth of much-needed technical skills giving a further boost to the UK’s post-recession economy.
@@ -30,7 +28,7 @@ At our one-day events, there will be slots available throughout the day to tell 
 Other sponsorship benefits include promotion through the Codebar website and our social media channels, e.g. Twitter, Facebook etc.  (should we say more about this?)
 
 
-## Sponsorship investment packages
+### Sponsorship investment packages
 
 |  | Supporter | Facilitator | Partner |
 | ---- | -----| ------| ----|
@@ -43,7 +41,7 @@ Other sponsorship benefits include promotion through the Codebar website and our
 | Investment | £200 | £600 | £1600 |
 
 
-# How your sponsorship is used
+### How your sponsorship is used
 
 - Food and drink at the event (day or evening)
 - Printed materials to help get the word out
