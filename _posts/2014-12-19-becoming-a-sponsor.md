@@ -7,7 +7,7 @@ Codebar is a not-for-profit organisation that has been running weekly coding wor
 
 We have coached over 500 students, with new people attending our events every week and a waiting list of 30-50 students on our London events! This has grown our developer base rapidly in a short period but it has also substantially increased demand for space, coaches and resources. This in turn requires a substantial expansion in sponsorship investment so that we can not just run workshops across London smoothly, but also be able to provide help and support to our other chapters.
 
-Workshops are currently held weekly in London and Brighton, and every forthnight in Cambridge. Weare also trying to get Codebar to more cities, in and out of the UK. If you are a sponsor interested in helping get Codebar started in your city, we'd be delighted to talk to you about hosting and sponsoring regular events.
+Workshops are currently held weekly in London and Brighton, and every forthnight in Cambridge. We are also trying to take Codebar to more cities, in and out of the UK. If you are a sponsor interested in helping get Codebar started in your city, we'd be delighted to talk to you about hosting and sponsoring regular events.
 
 In addition to our weekly workshops, occasionaly we hold one-day courses for existing and new students on more specialised topics (like HTTP Fundamentals, Git, Public Speaking etc) and one-day coding events.
 
