@@ -5,6 +5,9 @@ baseurl: ""
 url: "http://manual.codebar.io"
 twitter_username: codebar
 github_username:  codebar
-markdown: redcarpet
 highlighter: true
 permalink: none
+markdown: redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
+
