@@ -30,23 +30,30 @@ Whatever investment you choose, your logo will appear on the Codebar website alo
 
 |  | Supporter | Facilitator | Partner |
 | ---- | -----| ------| ----|
-| Logo and link | x  | x | x  |
+| Logo and link on our website | x  | x | x  |
 | 5 minute slot during a workshop | x |  x | x |
-| 10 minute slot during an event |  |  | x |
-| Your marketing collateral distributed at event (stickers) | | x | x |
-| Your banner displayed during the event | | | x |
+| Mention in our monthly member newsletter |  |  | x |
+| Link in our monthly member newsletter |  | x  | x |
+| Your marketing collateral distributed at events (stickers) | | x | x |
+| Your banner displayed during an event | | | x |
 | Thank you tweet and facebook post | x | x | |
 | Tweets and Facebook posts regularly during sponsorship period | | | x |
+| Love and graditude from a vibrant community | x | x | x |
 | Investment | £200 | £600 | £1600 |
 
 
 ### How your sponsorship is used
 
 - Food and drinks for our weekly workshops (not all of our hosts are able to provide food)
+
 - Admin and food costs for running courses
+
 - Printed materials to help get the word out
+
 - Stickers other swag
+
 - Travel subsidies for students who live outside the city
+
 - Administrative support
 
 

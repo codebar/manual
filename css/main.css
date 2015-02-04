@@ -66,7 +66,22 @@ ul.post-list li {
   padding: 10px 5px 10px 5px;
 }
 
-
 p {
   line-height: 1.4em;
+}
+
+td {
+  border-bottom:1px solid #fff;
+  color: #333;
+  border-top:1px solid transparent;
+  padding: 8px;
+}
+
+tbody tr:hover td{
+  color:#339;
+  background:#fff;
+}
+
+thead td {
+  border: 1px solid #333;
 }
