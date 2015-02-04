@@ -9,7 +9,7 @@ We have a dedicated mailing lists for our students, as well as a weekly email in
 
 - **No paid courses**. We spend a lot of our time trying to create opportunities and run free events for Codebar students. If you would like to run a free version of your course for us or offer free spots to an event you are running, we would love to hear from you.
 
-- Any offers/courses sent must be aimed at beginner to intermediate level developers and should specify the prerequisites and background knowledge required for someone to attend.
+- Any offers/courses sent must be aimed at beginner to intermediate level developers and should specify the prerequisites and background knowledge required for someone to attend - we do welcome all giveaway conference tickets!
 
 - All communication that you want us to forward to the Codebar mailing list must align with the Codebar mission statement and Code of Conduct.
 
