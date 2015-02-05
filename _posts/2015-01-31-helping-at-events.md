@@ -1,6 +1,5 @@
-
 ---
-layout: default
+layout: post
 title:  "Helping at Codebar events"
 ---
 
