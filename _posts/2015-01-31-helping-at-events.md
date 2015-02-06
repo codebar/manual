@@ -52,8 +52,10 @@ Codebar workshops are a team effort and we really appreciate you wanting to help
 3.  Have they done any development before?
     -  If yes, what was that? Do they have a goal in mind? (e.g. Are they trying to build their own web  app or a portfolio?)`
 
-4. Typing can be hard, but it's very important when learning to code. Type everything in and don't copy and paste.
+4. Are you a student? Speak to them about your experience and how programming has changed things for you!
 
-5. Codebar is not just about learning to code but also about making friends and meeting people with similar goals. Encourage them to chat to other people and come to the pub afterwards!
+5. Typing can be hard, but it's very important when learning to code. Type everything in and don't copy and paste.
 
-6. If they need any help they should look for a helper of organiser.
+6. Codebar is not just about learning to code but also about making friends and meeting people with similar goals. Encourage them to chat to other people and come to the pub afterwards!
+
+7. If they need any help they should look for a helper of organiser.
