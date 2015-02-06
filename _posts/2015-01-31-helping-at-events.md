@@ -3,7 +3,7 @@ layout: post
 title:  "Helper Guide"
 ---
 
-Codebar workshops are a team effort and we really appreciate you wanting to help run things smoother! Here's some tips on how you can help:
+Codebar workshops are a team effort and we really appreciate you wanting to help run things smoother! Here are some tips on how you can help:
 
 - Try to get to the event a little early: 5 minutes or so before the listed start time.
 
