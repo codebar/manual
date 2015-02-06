@@ -7,7 +7,7 @@ title: "Codebar's values"
 
 * **Codebar is accessible.** All Codebar events are free.
 
-* **Codebar aims to help people learn from scratch.** We want our students to understand why and how things work. Teach them the basics, encourage them to practise a language before jumping into frameworks. We are not there to configure a blog or a server, nor to support a project. We want to help the students how to do this on their own.
+* **Codebar aims to help people learn from scratch.** We want our students to understand why and how things work. Teach them the basics and encourage them to practise a language before jumping into frameworks. We are not there to configure a blog or a server, nor to support a project. We want to help the students learn how to do this on their own.
 
 * **Codebar exists to help the students**. Any giveaways or special offers are only made available to our students. We don't act as a mailing list for our coaches unless this has a direct impact in helping promote diversity in the tech industry or teach people programming for free.
 
