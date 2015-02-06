@@ -11,7 +11,7 @@ Codebar workshops are a team effort and we really appreciate you wanting to help
 
 - Try to be close at hand to the front desk where people are being checked in so you are close by to give inductions and help with tasks. Once you've finished an induction or helping with something, head back to the front desk.
 
-- Try not to get caught up in conversations unless there are no more inductions or the organisers don't need your help any more.
+- Try not to get caught up in conversations unless there are no more inductions or the organisers don't need your help anymore.
 
 - Keep an eye for people who are on their own. Talk to them and introduce them to other people.
 
@@ -54,8 +54,6 @@ Codebar workshops are a team effort and we really appreciate you wanting to help
 
 4. Typing can be hard, but it's very important when learning to code. Type everything in and don't copy and paste.
 
-5. They will make a lot of mistakes and things won't always work. That
+5. Codebar is not just about learning to code but also about making friends and meeting people with similar goals. Encourage them to chat to other people and come to the pub afterwards!
 
-6. Codebar is not just about learning to code but also about making friends and meeting people with similar goals. Encourage them to chat to other people and come to the pub afterwards!
-
-7. If they need any help they should look for a helper of organiser.
+6. If they need any help they should look for a helper of organiser.
