@@ -34,11 +34,13 @@ To find out more about how to manage the Codebar application read our [Organiser
 
 #### Name badges
 
-We have found that using name badges helps out a lot. It's not easy neither for the organisers nor for the attendees to remember everyone else's name, and it also enables everyone to know who they are talking to. Usually the host companies are able to handle printing the badges, so you should ask them!
+Giving people name badges helps out a lot. Remembering new names can be hard, especially for newcomers and this enables the attendees to always know who they are talking to and if they are a student or a coach, to avoid confusion.
 
-If your workshops are small it should also be easy to just write the name on the labels as people attend. Using different color markers to help distinguish who is a student and coach can be helpful.
+If the attendee list is long, you might want to have the labels printed instead. One of our sponsors has been kind enough to provide us with a free professional account at their label providing service and you can use to generate the addressing label template. You can to find the details in our shared password vault.
 
-[Big First Name](http://big.first.name) has kindly offered us a free account that we use to print stickers. You should be able to find the details in our shared password vault. To get a list of the attendees, go to your workshop's admin page and click on 'Export attendees'. If someone else is helping you out with that, they can also export the list of names by appending '.csv' to their invitation URL.
+You will then have to get the list of the event attendees so you can import it and generate the template. You can do that by clicking 'Export attendees' on the workshop's admin page. The list of attendees can also be retrieved by appending *.csv* to any invitation URL.
+
+If you don't have access to a printer at work, ask your host if they are able to handle printing the badges and supplying the labels.
 
 You can also use different color stickers for the organisers and anyone helping out so that attendees know who to speak to if they need any help.
 
