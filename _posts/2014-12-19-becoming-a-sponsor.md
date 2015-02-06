@@ -7,9 +7,9 @@ Codebar is a not-for-profit organisation that has been running weekly coding wor
 
 We have coached over 500 students, with new people attending our events every week and a waiting list of 30-50 students on our London events! This has grown our developer base rapidly in a short period but it has also substantially increased demand for space, coaches and resources. This in turn requires a substantial expansion in sponsorship investment so that we can not just run workshops across London smoothly, but also be able to provide help and support to our other chapters.
 
-Workshops are currently held weekly in London and Brighton, and every forthnight in Cambridge. We are also trying to take Codebar to more cities, in and out of the UK. If you are a sponsor interested in helping get Codebar started in your city, we'd be delighted to talk to you about hosting and sponsoring regular events.
+Workshops are currently held weekly in London and Brighton, and every forthright in Cambridge. We are also trying to take Codebar to more cities, in and out of the UK. If you are a sponsor interested in helping get Codebar started in your city, we'd be delighted to talk to you about hosting and sponsoring regular events.
 
-In addition to our weekly workshops, occasionaly we hold one-day courses for existing and new students on more specialised topics (like HTTP Fundamentals, Git, Public Speaking etc) and one-day coding events.
+In addition to our weekly workshops, occasionally we hold one-day courses for existing and new students on more specialised topics (like HTTP Fundamentals, Git, Public Speaking etc.) and one-day coding events.
 
 All of Codebar’s events are run on a volunteer basis, with every subject expert and coach giving their time for free.
 
@@ -21,7 +21,7 @@ As a sponsor of any of Codebar’s events, you will be part of the vibrant commu
 
 You will be helping to promote diversity within this country’s tech sector and be part of an exciting community committed to narrowing the skills gap. Not only that, but you will also be contributing to the growth of much-needed technical skills giving a further boost to the UK’s post-recession economy.
 
-Your sponsorship will enable more women, LGBTQ and minorities to get started in development, or raise their skills to the next level. You will also have contact with developers of all levels at our workshops. Many of Codebar’s students have found jobs as a direct result of the time they have invested to learn and develop their coding skills with us.
+Your sponsorship will enable more women, LGBTQ and other people from under-represented minority groups to get started in development, or raise their skills to the next level. You will also have contact with developers of all levels at our workshops. Many of Codebar’s students have found jobs as a direct result of the time they have invested to learn and develop their coding skills with us.
 
 Whatever investment you choose, your logo will appear on the Codebar website along with a link to your site. You are also welcome to give a 5 minutes at the beginning of an evening workshop you host in a topic that you think that our students will find interesting and informative.
 
@@ -32,7 +32,7 @@ Whatever investment you choose, your logo will appear on the Codebar website alo
 There are different ways that you can help and support our vibrant and growing community. You can be a regular workshop supporter and offer your venue and food to a substantial amount of workshops taking place in your area or be a workshop supporter and help by taking care of one of our workshops every now and then.
 
 
-We also welcome monetary sponsorship as we to cover other expenses..
+We also welcome monetary sponsorship to help us cover other expenses.
 
 
 ### What do you get in return?
