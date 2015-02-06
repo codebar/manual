@@ -5,7 +5,7 @@ title: "Codebar's values"
 
 * **Codebar is friendly and encouraging**. The atmosphere should be one of co-operating and non-judgement. People should help each other out, peer-to-peer.
 
-* **Codebar is accessible.** All Codebar events should be free.
+* **Codebar is accessible.** All Codebar events are free.
 
 * **Codebar exists to help the students**. Any giveaways or special offers are only made available to our students. We don't act as a mailing list for our coaches unless this has a direct impact in helping promote diversity in the tech industry or teach people programming for free.
 
