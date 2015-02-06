@@ -5,15 +5,15 @@ title: "Bringing Codebar to your area"
 
 ### Do you want to bring Codebar to your city?
 
-Part of Codebar's goal is to enable anyone wanting to run our events in their city on a regular basis by supporting them in any way we can. If this is something that you would like to do, we suggest that you first try and find a venue for the first two events and sponsors that can provide you with food.
+Part of Codebar's goal is to enable anyone who is up for organising workshops in their city on a regular basis by supporting them in any way we can. If this is something that you would like to do, we suggest that you first try and find a venue for the first two events and sponsors that can provide you with food.
 
-We will then add your chapter to codebar.io and provide you with organiser access and any other mailing lists and accounts so that you can manage things.
+We will also add your chapter to the Codebar application and provide you with organiser access, a mailing list where people subscribed to your city can reach out to you and more information on how to use the app to announce and invite people to workshops.
 
 We can also help by
 
 - promoting your workshops through twitter
 
-- reaching out to help you find venues and coaches
+- reaching out for venues and coaches
 
 - offering access to all of our chapter organisers who can help and support your effort
 
@@ -22,4 +22,7 @@ We can also help by
 - sharing our tutorials and community input
 
 
-If you are struggling with either finding a venue or someone to cover food costs, we might be able to help by covering some of the costs or reaching out to our extended network. Just let us know.
+If you are struggling to either find a venue or a sponsor to cover food costs, we might be able to help. Just let us know.
+
+But first, you should read our [Code of Conduct](/codebar-values.html) and the [values](/codebar-values.html) that represent us.
+
