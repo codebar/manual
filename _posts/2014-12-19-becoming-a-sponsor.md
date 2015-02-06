@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Sponsoring Codebar"
+title:  "Sponsoring"
 ---
 
 Codebar is a not-for-profit organisation that has been running weekly coding workshops since October 2013, with London as its first chapter. Since then we have expanded to running workshops in Brighton and Cambridge and now have a community consisting of over 1000 members in our London chapter, 250 in Brighton and 100 in Cambridge.
