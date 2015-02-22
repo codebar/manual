@@ -22,7 +22,7 @@ Codebar workshops are a team effort and we really appreciate you wanting to help
 
 ### Coach inductions
 
-1. Have they read the code of conduct?
+1. Have they read the [code of conduct](http://codebar.io/code-of-conduct)?
 
 2. Have they read the [coach guide](http://codebar.io/effective-teacher-guide)?
   - If not, they should do so right now.
@@ -45,7 +45,7 @@ Codebar workshops are a team effort and we really appreciate you wanting to help
 
 ### Student inductions
 
-1. Have they read the code of conduct?
+1. Have they read the [code of conduct](http://codebar.io/code-of-conduct)?
 
 2. How did they hear about Codebar? What made them want to come along?
 
