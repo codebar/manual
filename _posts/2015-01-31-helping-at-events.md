@@ -58,4 +58,4 @@ Codebar workshops are a team effort and we really appreciate you wanting to help
 
 6. Codebar is not just about learning to code but also about making friends and meeting people with similar goals. Encourage them to chat to other people and come to the pub afterwards!
 
-7. If they need any help they should look for a helper of organiser.
+7. If they need any help they should look for a helper or organiser.
