@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Helper Guide"
+title:  "Coordinator Guide"
 ---
 
 Codebar workshops are a team effort and we really appreciate you wanting to help run things smoother! Here are some tips on how you can help:
