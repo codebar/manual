@@ -56,7 +56,7 @@ Depending on the size of the event we tend to spend the first half an hour havin
 
 ### After the event
 
-Encourage attendees to go to a café or the pub. Usually people don't get that much time to interact at the events and this enables them to expand their tech social circle, find our about opportunities and meet like-minded people.
+Encourage them to come to any social events following the workshop. Usually people don't get that much time to interact at the events and this enables them to expand their tech social circle, find our about opportunities and meet like-minded people.
 
 
 ## Dealing with problems
