@@ -15,7 +15,7 @@ title: "Organiser Guide"
 
 *Optional*
 
-- **A projector and screen**. A projector is nice to have as you can use it to host lightning talks  and to project the [Welcome to Codebar](http://wip) slides.
+- **A projector and screen**. A projector is nice to have as you can use it to host lightning talks  and to project the [Welcome to codebar](http://wip) slides.
 
 
 #### Anything else?
@@ -28,9 +28,9 @@ Not all companies are able to provide both space and food. If you need help find
 
 You should aim to list your events at least a week before they take place to give people time to learn and sign up to the event. When creating an event, you should make sure to not set it as `invitable` unless registrations are open.
 
-Anyone signed up to Codebar will be able to RSVP to the event through the workshop page but only people subscribed to your chapter will receive an email invitation.
+Anyone signed up to codebar will be able to RSVP to the event through the workshop page but only people subscribed to your chapter will receive an email invitation.
 
-To find out more about how to manage the Codebar application read our [Organiser Guide]().
+To find out more about how to manage the codebar application read our [Organiser Guide]().
 
 #### Name badges
 
@@ -47,7 +47,7 @@ You can also use different color stickers for the organisers and anyone helping 
 
 ### At the event
 
-Check in people through the workshop admin page as they come and hand them out their name tag. This will enable you to track demand, enforce the Codebar attendance policy and also put people in groups before the workshop kicks off. The coaches will also only start appearing in the [coach ranking](http://codebar.io/coaches) after their attendance is confirmed.
+Check in people through the workshop admin page as they come and hand them out their name tag. This will enable you to track demand, enforce the codebar attendance policy and also put people in groups before the workshop kicks off. The coaches will also only start appearing in the [coach ranking](http://codebar.io/coaches) after their attendance is confirmed.
 
 Make sure the WiFi details are displayed in a prominent place.
 
@@ -61,8 +61,8 @@ Encourage them to come to any social events following the workshop. Usually peop
 
 ## Dealing with problems
 
-Part of your job as organiser is to make sure that everyone feels welcome and comfortable. This might occasionally mean that you have to deal with small issues or potentially ban people from attending Codebar events.
+Part of your job as organiser is to make sure that everyone feels welcome and comfortable. This might occasionally mean that you have to deal with small issues or potentially ban people from attending codebar events.
 
-This is not something that anyone enjoys doing, however, our attendees are our priority and we need to make sure that Codebar's [Code of Conduct](http://codebar.io/code-of-conduct) is enforced.
+This is not something that anyone enjoys doing, however, our attendees are our priority and we need to make sure that codebar's [Code of Conduct](http://codebar.io/code-of-conduct) is enforced.
 
 If someone comes to you with a complain, act on it. If attendees are involved, speak to them or send them an email after the event. If you feel that you are unable to deal with this, you are more than welcome to send an email to london@codebar.io and we will do our best to help you out or deal with any issues.
