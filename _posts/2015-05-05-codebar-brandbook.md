@@ -15,9 +15,9 @@ All of our assets can be downloaded from our [github page](https://github.com/co
 
 ![codebar logotype](/images/logotype.png)
 
-![codebar logo 1]()
-![codebar logo 2]()
-![codebar logo 3]()
+![codebar logo 1](/images/logo_001.png)
+![codebar logo 2](/images/logo_002.png)
+![codebar logo 3](/images/logo_003.png)
 
 ### Font & typography
 
@@ -37,23 +37,15 @@ When we refer to codebar in writing we use the short verison - codebar - as oppo
 
 The different codebar locations are called chapters. When we refer to a specific  codebar chapter, we write codebar first and then the chapter name we are referring to.
 
-#### DO
-
-codebar
-codebar London
-codebar South London
-codebar Brighton
-codebar Birmingham
-codebar Cambridge
-
-#### DON'T
-
-Codebar
-London codebar
-South London codebar
-Brighton codebar
-Birmingham codebar
-Cambridge codebar
+| DO  | DON'T |
+| ------------- | ------------- |
+| codebar  | Codebar  |
+| codebar London  | London codebar  |
+| codebar South London  | South London codebar  |
+| codebar Brighton  | Brighton codebar  |
+| codebar Birmingham  | Birmingham codebar  |
+| codebar Cambridge  | Cambridge codebar  |
+| codebar Manchester  | Manchester codebar  |
 
 
 
