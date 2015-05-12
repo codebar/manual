@@ -39,15 +39,16 @@ When we refer to codebar in writing we use the short verison - codebar - as oppo
 
 The different codebar locations are called chapters. When we refer to a specific  codebar chapter, we write codebar first and then the chapter name we are referring to.
 
+
 | DO  | DON'T |
-| ------------- | ------------- |
-| codebar  | Codebar  |
-| codebar London  | London codebar  |
-| codebar South London  | South London codebar  |
-| codebar Brighton  | Brighton codebar  |
-| codebar Birmingham  | Birmingham codebar  |
-| codebar Cambridge  | Cambridge codebar  |
-| codebar Manchester  | Manchester codebar  |
+| :------------- | :------------- |
+|codebar  |Codebar  |
+|codebar London  |London codebar  |
+|codebar South London  |South London codebar  |
+|codebar Brighton  |Brighton codebar  |
+|codebar Birmingham  |Birmingham codebar  |
+|codebar Cambridge  |Cambridge codebar  |
+|codebar Manchester  |Manchester codebar  |
 
 
 
