@@ -3,8 +3,6 @@ layout: post
 title:  "codebar brandbook"
 ---
 
-coding is easier than you think
-
 Welcome! This one page document is a short introduction to the codebar brand. It is very much in progress and is meant to give you a high level idea about the do’s and dont’s of the codebar brand.
 
 ### Assets
@@ -13,7 +11,11 @@ All of our assets can be downloaded from our [github page](https://github.com/co
 
 ### Logo
 
+Logotype:
+
 ![codebar logotype](/images/logotype.png)
+
+Logos:
 
 ![codebar logo 1](/images/logo_001.png)
 ![codebar logo 2](/images/logo_002.png)
