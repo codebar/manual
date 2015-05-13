@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "codebar's values"
+title: "Our values"
 ---
 
 * **codebar is friendly and encouraging**. The atmosphere should be one of co-operating and non-judgement. People should help each other out, peer-to-peer.
