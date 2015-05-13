@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Bringing Codebar to your area"
+title: "Bringing codebar to your area"
 ---
 
-### Do you want to bring Codebar to your city?
+### Do you want to bring codebar to your city?
 
 Part of our goal is to enable people to organise workshops in their city on a regular basis by supporting them in any way we can. If this is something that you would like to do, we suggest that you first try and find a venue for the first two events and sponsors that can provide you with food.
 
-We will also add your chapter to the Codebar application and provide you with organiser access, a mailing list where people subscribed to your city can reach out to you and more information on how to use the app to announce and invite people to workshops.
+We will also add your chapter to the codebar application and provide you with organiser access, a mailing list where people subscribed to your city can reach out to you and more information on how to use the app to announce and invite people to workshops.
 
 We can also help by
 
