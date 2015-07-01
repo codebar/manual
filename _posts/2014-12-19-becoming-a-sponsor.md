@@ -19,7 +19,7 @@ Finally, if your venue is not clearly visible from the street or the Google Plac
 
 ### About codebar
 
-codebar is a not-for-profit organisation that has been running weekly coding workshops since October 2013, with London as its first chapter. Since then we have expanded to running workshops in South London, Brighton, Cambridge, Birmingham and soon Manchester and now have a community consisting of over 1100 members in our London chapter, 350 in Brighton and 130 in Cambridge.
+codebar is a not-for-profit organisation that has been running weekly coding workshops since October 2013, with London as its first chapter. Since then we have expanded to running workshops in South London, Brighton, Cambridge, Birmingham, and Manchester and now have a community consisting of over 1200 members in our London chapter, 350 in Brighton and 130 in Cambridge.
 
 We have coached over 1000 students, with new people attending our events every week and a waiting list of 30-50 students at our London events. This has grown our developer base rapidly in a short period of time but it has also substantially increased demand for space, coaches and resources. This in turn requires a substantial expansion in sponsorship investment so that we can not just run workshops across London smoothly, but also be able to provide help and support to our other chapters.
 
