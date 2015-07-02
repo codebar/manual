@@ -95,10 +95,6 @@ td {
 }
 
 tbody tr:hover td{
-  color:#339;
+  color:#333;
   background:#fff;
-}
-
-thead td {
-  border: 1px solid #333;
 }
