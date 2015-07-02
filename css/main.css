@@ -22,10 +22,6 @@ a {
   color: #333;
 }
 
-.content, header, footer {
-  width: 960px;
-}
-
 footer {
   margin: 100px auto 50px;
   text-align: center;
@@ -41,13 +37,31 @@ footer {
   margin: 0px auto;
 }
 
+.post:after {
+  content:"";
+  display:table;
+  clear:both;
+}
+
+aside {
+  width: 30%;
+  float: left;
+  margin-top: 53px;
+}
+
+.post-content {
+  width: 70%;
+  float: left;
+}
+
 nav ul {
   list-style: none;
+  padding-left: 0;
 }
 
 nav ul li {
-  display: inline-block;
   margin-right: 10px;
+  margin-bottom: 10px;
 }
 
 ul.post-list {
