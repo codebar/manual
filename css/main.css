@@ -98,3 +98,15 @@ tbody tr:hover td{
   color:#333;
   background:#fff;
 }
+
+.codebar-link {
+  color: #e97ca1;
+}
+
+.codebar-link i {
+  margin-right: 4px;
+}
+
+.codebar-link a {
+  color: #e97ca1;
+}
