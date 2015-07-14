@@ -20,7 +20,7 @@ title: "Organiser Guide"
 
 #### Anything else?
 
-- **Students and coaches**. We aim to have have double the amount of students to coaches, and will pair up 2 students who are working on the same tutorial with their assigned coach.
+- **Students and coaches**. We aim to have double the amount of students to coaches, and try to pair up 2 students who are working on the same tutorial with their assigned coach.
 
 - **Food and drinks**. Learning to code after a long day at work can be hard. Offering food and giving people the opportunity to take a break and have something to eat before getting started makes our events more effective and accessible. You should also ask for vegetarian, vegan, and gluten-free options and also non-alcoholic drinks. The effort is minimal and then everyone can have something to eat. If you are stuck, ask us for suggestions!
 

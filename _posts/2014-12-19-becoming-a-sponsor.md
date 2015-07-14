@@ -11,7 +11,7 @@ Weekly workshops range from 40-60 attendees based on the capacity of the venue.
 
 The minimum requirements for hosting a workshop are desk space, power outlets, and stable wi-fi internet.
 
-Additionally, we encourage sponsors to provide food and drinks. With food, please provide vegetarian, vegan and gluten-free options, and with drinks, please provide non-alcoholic drinks if you are planning on providing beer or wine. If you would like recommendations for food, please get in touch with your chapter organizers.
+Additionally, we encourage sponsors to provide food and drinks. With food, please provide vegetarian, vegan and gluten-free options. With drinks, please provide non-alcoholic drinks if you are planning on providing beer or wine. If you would like recommendations for food, please get in touch with your chapter organizers.
 
 We also like to hold lightning talks at the start of each event. If your space has a larger conference room with a projector (preferably HDMI and/or with an adapter for Mac Thunderports) please let us know in advance and have it ready to go on the day of the workshop.
 
