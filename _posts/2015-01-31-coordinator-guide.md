@@ -9,7 +9,7 @@ codebar workshops are a team effort and we really appreciate you wanting to help
 
 - Be friendly, positive, and encouraging.
 
-- Try to be close at hand to the front desk where people are being checked in so you are close by to give inductions and help with tasks. Once you've finished an induction or helping with something, head back to the front desk.
+- Try to be close at hand to the front desk where people are being checked. This is so you are close by to give inductions and help with any required tasks. Once you've finished an induction or helping with something, head back to the front desk.
 
 - Try not to get caught up in conversations unless there are no more inductions or the organisers don't need your help anymore.
 
