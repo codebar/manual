@@ -17,11 +17,15 @@ Logotype
 
 Logos
 
-![codebar logo 1](/images/logo_001.png)
-![codebar logo 2](/images/logo_002.png)
-![codebar logo 3](/images/logo_003.png)
+![codebar logo 1](/images/codebar-logo-160-001.png)
+![codebar logo 2](/images/codebar-logo-160-002.png)
+![codebar logo 3](/images/codebar-logo-160-003.png)
 
 Additionally, each chapter has it's own logo with the name of the city in all three combinations: 
+
+![codebar Manchester logo 1](/images/codebar-manchester-160-001.png)
+![codebar Manchester logo 2](/images/codebar-manchester-160-002.png)
+![codebar Manchester logo 3](/images/codebar-manchester-160-003.png)
 
 ### Font & typography
 
