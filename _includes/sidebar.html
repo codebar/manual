@@ -1,0 +1,10 @@
+<nav>
+	<ul>
+    {% for post in site.posts %}
+      <li>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </li>
+    {% endfor %}
+    	<li class="codebar-link"><i class='fa fa-arrow-left'></i><a href="http://www.codebar.io">codebar.io</a></li>
+	</ul>
+</nav>
