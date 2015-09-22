@@ -110,3 +110,27 @@ tbody tr:hover td{
 .codebar-link a {
   color: #e97ca1;
 }
+
+/**
+ * Brandbook
+ */
+.color {
+  width: 80px;
+  height: 80px;
+  display: inline-block;
+}
+.color.yellow {
+  background: #f8af3c;
+}
+.color.purple {
+  background: #a2539a;
+}
+.color.blue {
+  background: #afdef8;
+}
+.color.green {
+  background: #47ad4c;
+}
+.color.orange {
+  background: #ea5b28;
+}
