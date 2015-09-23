@@ -54,6 +54,10 @@ aside {
   float: left;
 }
 
+.post-content a {
+  color: #a2539a;
+}
+
 nav ul {
   list-style: none;
   padding-left: 0;
@@ -91,7 +95,7 @@ td {
   border-bottom:1px solid #fff;
   color: #333;
   border-top:1px solid transparent;
-  padding: 8px;
+  padding: 8px 40px 8px 0;
 }
 
 tbody tr:hover td{
@@ -99,16 +103,13 @@ tbody tr:hover td{
   background:#fff;
 }
 
-.codebar-link {
-  color: #e97ca1;
-}
-
 .codebar-link i {
   margin-right: 4px;
+  color: #a2539a;
 }
 
 .codebar-link a {
-  color: #e97ca1;
+  color: #a2539a;
 }
 
 /**
@@ -118,6 +119,9 @@ tbody tr:hover td{
   width: 80px;
   height: 80px;
   display: inline-block;
+  text-align: center;
+  color: #fff;
+  line-height: 80px;
 }
 .color.yellow {
   background: #f8af3c;

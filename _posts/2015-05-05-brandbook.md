@@ -27,23 +27,19 @@ Additionally, each chapter has it's own logo with the name of the city in all th
 ![codebar Manchester logo 2](/images/codebar-manchester-160-002.png)
 ![codebar Manchester logo 3](/images/codebar-manchester-160-003.png)
 
+### Colors
+
+<div class="color yellow">#f8af3c</div>
+<div class="color purple">#a2539a</div>
+<div class="color blue">#afdef8</div>
+<div class="color green">#47ad4c</div>
+<div class="color orange">#ea5b28</div>
+
 ### Font & typography
 
 In our logos and logotype we use a free webfont called Monda. You can download Monda from github [here](https://github.com/vernnobile/mondaFont)
 
 If you need to edit any of our assets, please use this font by downloading it and including it in your font library.
-
-### Colors
-
-<div class="color yellow"></div>
-<div class="color purple"></div>
-<div class="color blue"></div>
-<div class="color green"></div>
-<div class="color orange"></div>
-
-### Images 
-
-Work in progress
 
 ### Language
 
