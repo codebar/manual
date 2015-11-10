@@ -54,16 +54,19 @@ We also welcome monetary sponsorship to help us cover other expenses. The best w
 For our special day-long events such as 24 Pull Requests, we are always looking for new sponsors to get involved. The packages are as follows:
 
 *£500*
-10 minute slot at the beginning of the event
-Your logo on our website
-Your logo on a banner during the event
+
+- 10 minute slot at the beginning of the event
+- Your logo on our website
+- Your logo on a banner during the event
 
 *£250*
-5 minute slot at the beginning of the event
-Your logo on our website
+
+- 5 minute slot at the beginning of the event
+- Your logo on our website
 
 *£100*
-Your logo on our website
+
+- Your logo on our website
 
 
 *Our costs*
