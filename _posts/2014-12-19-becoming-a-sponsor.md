@@ -70,6 +70,7 @@ For our special day-long events such as 24 Pull Requests, we are always looking 
 
 
 *Our costs*
+
 - Breakfast
 - Lunch
 - Continuous supply of coffee
