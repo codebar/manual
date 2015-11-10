@@ -70,13 +70,13 @@ For our special day-long events such as 24 Pull Requests, we are always looking 
 
 
 *Our costs*
-Breakfast
-Lunch
-Continuous supply of coffee
-Printed materials to help get the word out
-Travel costs to help students who live outside London get to the workshop
-Stickers, t-shirts and other swag
-After party refreshments
+- Breakfast
+- Lunch
+- Continuous supply of coffee
+- Printed materials to help get the word out
+- Travel costs to help students who live outside London get to the workshop
+- Stickers, t-shirts and other swag
+- After party refreshments
 
 
 
