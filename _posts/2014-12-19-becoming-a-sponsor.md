@@ -49,6 +49,34 @@ There are different ways that you can help and support our vibrant and growing c
 We also welcome monetary sponsorship to help us cover other expenses. The best way to make a monetary contribution is to use our online [donation portal](http://donate.codebar.io).
 
 
+### Sponsorship Packages
+
+For our special day-long events such as 24 Pull Requests, we are always looking for new sponsors to get involved. The packages are as follows:
+
+*£500*
+10 minute slot at the beginning of the event
+Your logo on our website
+Your logo on a banner during the event
+
+*£250*
+5 minute slot at the beginning of the event
+Your logo on our website
+
+*£100*
+Your logo on our website
+
+
+*Our costs*
+Breakfast
+Lunch
+Continuous supply of coffee
+Printed materials to help get the word out
+Travel costs to help students who live outside London get to the workshop
+Stickers, t-shirts and other swag
+After party refreshments
+
+
+
 ### What do you get in return?
 
 Whatever your investment, you can be proud knowing you are an active member of this flourishing sector, enabling people to find jobs, enhance their existing careers and substantially improve the quality of life of those people who are often discriminated against.
