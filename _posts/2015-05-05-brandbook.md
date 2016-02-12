@@ -37,7 +37,7 @@ Additionally, each chapter has it's own logo with the name of the city in all th
 
 ### Font & typography
 
-In our logos and logotype we use a free webfont called Monda. You can download Monda from github [here](https://github.com/vernnobile/mondaFont)
+For our logos and logotype we use a free webfont called Monda. You can download Monda from github [here](https://github.com/vernnobile/mondaFont)
 
 If you need to edit any of our assets, please use this font by downloading it and including it in your font library.
 
@@ -47,7 +47,7 @@ We ALWAYS write codebar with a lowercase c, as opposed to a capital C. This is t
 
 When we refer to codebar in writing we use the short verison - codebar - as opposed to the long version - codebar.io - which we use in the logos.
 
-The different codebar locations are called chapters. When we refer to a specific  codebar chapter, we write codebar first and then the chapter name we are referring to.
+The different codebar locations are called chapters. When we refer to a specific codebar chapter, we write codebar first and then the chapter name we are referring to.
 
 
 | DO  | DON'T |
