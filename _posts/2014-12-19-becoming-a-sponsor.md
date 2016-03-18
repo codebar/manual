@@ -79,8 +79,6 @@ For our special day-long events such as 24 Pull Requests, we are always looking 
 - Stickers, t-shirts and other swag
 - After party refreshments
 
-
-
 ### What do you get in return?
 
 Whatever your investment, you can be proud knowing you are an active member of this flourishing sector, enabling people to find jobs, enhance their existing careers and substantially improve the quality of life of those people who are often discriminated against.
