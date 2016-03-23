@@ -5,7 +5,7 @@ title:  "Coordinator Guide"
 
 codebar workshops are a team effort and we really appreciate you wanting to help run things smoother! Here are some tips on how you can help:
 
-- Try to get to the event a little early: 5 minutes or so before the listed start time.
+- Try to get to the event a little early: 10 minutes or so before the listed start time.
 
 - Be friendly, positive, and encouraging.
 

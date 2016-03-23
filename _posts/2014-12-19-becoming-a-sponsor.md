@@ -5,9 +5,9 @@ title:  "Sponsoring"
 
 ### How to sponsor a workshop
 
-Weekly workshops usually range from 40-60 attendees, but can be higher or lower based on the capacity of the venue and the size of the chapter.
+Workshops usually range from 40-60 attendees, but can be higher or lower based on the capacity of the venue and the size of the chapter.
 
-The minimum requirements for hosting a workshop are desk space, power outlets, and stable wi-fi internet.
+The minimum requirements for hosting a workshop are desk space, power outlets, and a stable internet connection.
 
 Additionally, we encourage sponsors to provide food and drinks. Since codebar workshops typically take place immediately after work for many students and coaches, it is recommended that hosts provide some hot food, as attendees will not have another chance to eat dinner. In London, the typical spend for hot food is roughly £200-250 for one workshop; outside of central London it can be lower.
 
@@ -19,13 +19,13 @@ Finally, if your venue is not clearly visible from the street or the Google Plac
 
 ### About codebar
 
-codebar is a not-for-profit organisation that has been running weekly coding workshops since October 2013, with London as its first chapter. Since then we have expanded to running workshops in South London, Brighton, Cambridge, Birmingham, and Manchester and now have a community consisting of over 1200 members in our London chapter, 350 in Brighton and 130 in Cambridge.
+codebar is a not-for-profit organisation that has been running weekly coding workshops since October 2013, with London as its first chapter. Since then we have expanded to running workshops in South London, West London, Brighton, Bournemouth, Cambridge, Birmingham, and Manchester and now have a community consisting of over 1600 members in our London chapter, 350 in Brighton and 130 in Cambridge.
 
 We have coached over 1000 students, with new people attending our events every week and a waiting list of 30-50 students at our London events. This has grown our developer base rapidly in a short period of time but it has also substantially increased demand for space, coaches and resources. This in turn requires a substantial expansion in sponsorship investment so that we can not just run workshops across London smoothly, but also be able to provide help and support to our other chapters.
 
-Workshops are currently held weekly in London and Brighton, and every forthright in Cambridge and Birmingham. We are also trying to take codebar to more cities, in and out of the UK. If you are a sponsor interested in helping get codebar started in your city, we'd be delighted to talk to you about hosting and sponsoring regular events.
+Workshops are currently held weekly in London and Brighton, and every forthright in Cambridge, Bournemouth and Birmingham. We are also trying to take codebar to more cities, in and out of the UK. If you are a sponsor interested in helping get codebar started in your city, we'd be delighted to talk to you about hosting and sponsoring regular events.
 
-In addition to our weekly workshops, occasionally we hold one-day courses for existing and new students on more specialised topics (like HTTP Fundamentals, Git, Public Speaking etc.) and one-day coding events.
+In addition to our weekly workshops, occasionally we hold one-day courses for existing and new students on more specialised topics (like HTTP Fundamentals, Git, Public Speaking etc.) as well as one-day coding events.
 
 All of codebar’s events are run on a volunteer basis, with every subject expert and coach giving their time for free.
 
@@ -51,7 +51,7 @@ We also welcome monetary sponsorship to help us cover other expenses. The best w
 
 ### Sponsorship Packages
 
-For our special day-long events such as 24 Pull Requests, we are always looking for new sponsors to get involved. The packages are as follows:
+For our special day-long events such as Mind the Code or 24 Pull Requests, we are always looking for new sponsors to get involved. The packages are as follows:
 
 *£500*
 

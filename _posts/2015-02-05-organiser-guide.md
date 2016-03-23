@@ -7,7 +7,7 @@ title: "Organiser Guide"
 
 #### What do I need from a host?
 
-- **Space**. The requirement is different depending on the city. A workshop can be as small as 5-6 people or as big as 80 - or more if you have enough people helping out! Just make sure that the venue space details is configured properly in the application before you send out any invitations.
+- **Space**. The requirement is different depending on the city. A workshop can be as small as 5-6 people or as big as 80 - or more if you have enough people helping out! Just make sure that the venue details are configured properly in the application before you send out any invitations.
 
 - **Desks and chairs**. Make sure there are enough tables and chairs for everyone.
 
