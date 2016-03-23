@@ -57,6 +57,7 @@ The different codebar locations are called chapters. When we refer to a specific
 |codebar South London  |South London codebar  |
 |codebar Brighton  |Brighton codebar  |
 |codebar Birmingham  |Birmingham codebar  |
+|codebar Bournemouth  |Bournemouth codebar  |
 |codebar Cambridge  |Cambridge codebar  |
 |codebar Manchester  |Manchester codebar  |
 
