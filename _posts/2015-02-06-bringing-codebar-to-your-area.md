@@ -25,7 +25,7 @@ If you are struggling to either find a venue or a sponsor to cover food costs, w
 
 We also encourage you to join our [Slack group](http://codebar-slack.herokuapp.com/) where you can ask questions from existing organisers, coaches and students.
 
-For more information on what it takes to be a codebar organiser and to sponsor workshops, please refer to these entries of this guide:
+For more information on what it takes to be a codebar organiser and to sponsor workshops, please refer to these entries of this manual:
 
 - [organiser guide](http://127.0.0.1:4000/organiser-guide.html)
 
