@@ -29,25 +29,25 @@ Additionally, each chapter has it's own logo with the name of the city in all th
 
 ### Colors
 
-<div class="color yellow">#f8af3c</div>
-<div class="color purple">#a2539a</div>
-<div class="color blue">#afdef8</div>
-<div class="color green">#47ad4c</div>
-<div class="color orange">#ea5b28</div>
+<div class="color yellow">#F8Af3C</div>
+<div class="color purple">#A2539A</div>
+<div class="color blue">#AFdEf8</div>
+<div class="color green">#47AD4C</div>
+<div class="color orange">#E28</div>
 
 ### Font & typography
 
-For our logos and logotype we use a free webfont called Monda. You can download Monda from github [here](https://github.com/vernnobile/mondaFont)
+- For our logos and logotype we use a free webfont called Monda. You can download Monda from github [here](https://github.com/vernnobile/mondaFont)
 
-If you need to edit any of our assets, please use this font by downloading it and including it in your font library.
+- If you need to edit any of our assets, please use this font by downloading it and including it in your font library.
 
 ### Language
 
-We ALWAYS write codebar with a lowercase c, as opposed to a capital C. This is true even if codebar is the first word in a sentence.
+- We ALWAYS write codebar with a lowercase c, as opposed to a capital C. This is true even if codebar is the first word in a sentence.
 
-When we refer to codebar in writing we use the short verison - codebar - as opposed to the long version - codebar.io - which we use in the logos.
+- When we refer to codebar in writing we use the short verison - codebar - as opposed to the long version - codebar.io - which we use in the logos.
 
-The different codebar locations are called chapters. When we refer to a specific codebar chapter, we write codebar first and then the chapter name we are referring to.
+- The different codebar locations are called chapters. When we refer to a specific codebar chapter, we write codebar first and then the chapter name we are referring to.
 
 
 | DO  | DON'T |

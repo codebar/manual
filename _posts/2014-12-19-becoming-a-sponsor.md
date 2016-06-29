@@ -5,7 +5,7 @@ title:  "Sponsoring"
 
 ### How to sponsor a workshop
 
-Workshops usually range from 40-60 attendees, but can be higher or lower based on the capacity of the venue and the size of the chapter.
+- Workshops usually range from 40-60 attendees, but can be higher or lower based on the capacity of the venue and the size of the chapter.
 
 The minimum requirements for hosting a workshop are desk space, power outlets, and a stable internet connection.
 
