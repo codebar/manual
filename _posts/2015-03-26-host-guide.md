@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sponsor Guide"
+title: "Host Guide"
 ---
 
 ### Running a codebar workshop
@@ -30,6 +30,8 @@ Order the food. Please ask to have it delivered by 6:30PM, the official start ti
 A codebar organiser will send you an email with the final head count and any other details that might've come up beforehand. We can also send you a list of attendees, so if you need this let us know. However, please be aware that the list changes up until the last minute so it might not be 100% accurate. If you are printing name tags we will also send you a formatted PDF that you can use to print the tags.
 
 If the workshop has a confirmed lightning talk or you are doing one, set up the projector or screen so it's ready to go. It might be a good idea to have a selection of connectors on hand so people with a wide variety of machines can plug into it.
+
+If it is possible could you please label one of your toilets as gender neutral. We recommend using [this sign.](http://www.uua.org/sites/live-new.uua.org/files/documents/lgbtq/gender_neutral_bathroom_11x17.pdf)
 
 If there are any further questions you have please don't hesitate to get in touch with any of the codebar team.
 
