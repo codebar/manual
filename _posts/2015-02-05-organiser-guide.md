@@ -15,11 +15,6 @@ title: "Organiser Guide"
 
 - If it is possible could you ask the host to label one of their toilets as gender neutral. We recommend using [this sign.](http://www.uua.org/sites/live-new.uua.org/files/documents/lgbtq/gender_neutral_bathroom_11x17.pdf)
 
-*Optional*
-
-- **A projector and screen**. A projector is nice to have as you can use it to host lightning talks  and to project the [Welcome to codebar](http://wip) slides.
-
-
 #### Anything else?
 
 - **Students and coaches**. We aim to have double the amount of students to coaches, and try to pair up 2 students who are working on the same tutorial with their assigned coach.
