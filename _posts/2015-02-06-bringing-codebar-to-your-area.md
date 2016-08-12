@@ -27,7 +27,7 @@ We also encourage you to join our [Slack group](http://codebar-slack.herokuapp.c
 
 For more information on what it takes to be a codebar organiser and to sponsor workshops, please refer to these entries of this manual:
 
-- [organiser guide](http://127.0.0.1:4000/organiser-guide.html)
+- [organiser guide](http://manual.codebar.io/organiser-guide.html)
 
 - [sponsoring](http://manual.codebar.io/becoming-a-sponsor.html)
 
