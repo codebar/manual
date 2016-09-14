@@ -13,10 +13,7 @@ title: "Organiser Guide"
 
 - **WiFi and power**. The venue needs to have a fairly good and stable internet connection and enough power sockets for all the student laptops.
 
-*Optional*
-
-- **A projector and screen**. A projector is nice to have as you can use it to host lightning talks  and to project the [Welcome to codebar](http://wip) slides.
-
+- If it is possible could you ask the host to label one of their toilets as gender neutral. We recommend using [this sign.](http://www.uua.org/sites/live-new.uua.org/files/documents/lgbtq/gender_neutral_bathroom_11x17.pdf)
 
 #### Anything else?
 
@@ -56,6 +53,8 @@ Make sure the WiFi details are displayed in a prominent place.
 As you start pairing students and coaches, it is important to let the coach pick what they want to teach as we have coaches of all experience levels attending. We normally do this by saying the name of 2 students doing the same tutorial, then let a coach say they'll help.
 
 Depending on the size of the event we tend to spend the first half an hour having food and socialising before we pair people up around 19:00 (if we start at 18:30) and get started with coding. In some of our chapters we also run 5-minute lightning talks before we pair up the students and coaches. You are encouraged to try things out and see how it works better for you. Just remember to keep things running smoothly and allow the students at least 1:30 hour, if not more, of learning.
+
+Double check that the has labelled one of their toilets as gender neutral. We recommend using [this sign.](http://www.uua.org/sites/live-new.uua.org/files/documents/lgbtq/gender_neutral_bathroom_11x17.pdf)
 
 
 ### After the event

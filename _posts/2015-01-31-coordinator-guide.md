@@ -29,7 +29,7 @@ codebar workshops are a team effort and we really appreciate you wanting to help
 
 3. How did they hear about codebar? What made them want to come along?
 
-4. Stress out that we discourage the coaches from using their laptops. They are there to watch and guide, people are sometimes hesitant to ask a lot of questions.
+4. Stress that we discourage the coaches from using their laptops. They are there to watch and guide, people are sometimes hesitant to ask a lot of questions.
 
 5. Explain that our goal is to guide students, answer their questions, help them learn how to tackle problems and to encourage them.
 
@@ -37,11 +37,11 @@ codebar workshops are a team effort and we really appreciate you wanting to help
 
 7. If they need any help or have any concerns, they should speak to a coordinator or organiser.
 
-8. If they feel uncomfortable with someone's behaviour, they should bring it to the attention of one of the organisers. It is very important to us to ensure that everyone feels safe and comfortable.
+8. If they feel uncomfortable with someone's behaviour, they should bring it to the attention of one of the organisers. It is very important to us that everyone feels safe and comfortable.
 
 9. Thank them for coming. We appreciate their help and any feedback that they may have, as without them we wouldn't be able to have codebar! Let them know that they can get in contact with us at the local chapter's mailing list (e.g. brighton@codebar.io).
 
-12. We go to the social gathering afterwards, which is a great way to meet new people. They should come!
+12. Encourage then to come to the social gathering afterwards, which is a great way to meet new people. They should come.
 
 ### Student inductions
 
@@ -50,13 +50,13 @@ codebar workshops are a team effort and we really appreciate you wanting to help
 2. How did they hear about codebar? What made them want to come along?
 
 3.  Have they done any development before?
-    -  If yes, what was that? Do they have a goal in mind? (e.g. Are they trying to build their own web  app or a portfolio?)`
+    -  If yes, what was that? Do they have a goal in mind? (e.g. Are they trying to build their own web app or a portfolio?)`
 
-4. Are you a student? Speak to them about your experience and how programming has changed things for you!
+4. Are you a student? Speak to them about your experience and how programming has changed things for you.
 
-5. Typing can be hard, but it's very important when learning to code. Type everything in and don't copy and paste.
+5. Typing can be hard, but it's very important when learning to code. Type everything and DO NOT copy and paste.
 
-6. codebar is not just about learning to code but also about making friends and meeting people with similar goals. Encourage them to chat to other people and come to the social gathering afterwards!
+6. codebar is not just about learning to code but also about making friends and meeting people with similar goals. Encourage them to chat to other people and come to the social gathering afterwards.
 
 7. If they need any help they should look for a coordinator or organiser.
 

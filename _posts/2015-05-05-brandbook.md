@@ -48,11 +48,11 @@ The wordmark is a modified version of codebar written in Gotham Light. You can d
 
 ## Language
 
-We ALWAYS write codebar with a lowercase c, as opposed to a capital C. This is true even if codebar is the first word in a sentence.
+- We ALWAYS write codebar with a lowercase c, as opposed to a capital C. This is true even if codebar is the first word in a sentence.
 
-When we refer to codebar in writing we use the short verison - codebar - as opposed to the long version - codebar.io - which we use in the logos.
+- When we refer to codebar in writing we use the short verison - codebar - as opposed to the long version - codebar.io - which we use in the logos.
 
-The different codebar locations are called chapters. When we refer to a specific codebar chapter, we write codebar first and then the chapter name we are referring to.
+- The different codebar locations are called chapters. When we refer to a specific codebar chapter, we write codebar first and then the chapter name we are referring to.
 
 
 | DO  | DON'T |
