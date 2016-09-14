@@ -5,43 +5,48 @@ title:  "Brandbook"
 
 Welcome! This one page document is a short introduction to the codebar brand. It is very much in progress and is meant to give you a high level overview about the do’s and dont’s of the codebar brand.
 
-### Assets
+## Assets
 
-All of our assets can be downloaded from our [github page](https://github.com/codebar/assets)
+All of our assets can be downloaded from our [assets github page](https://github.com/codebar/assets).
 
 ### Logo
 
-Logotype
+Our logo, mark and wordmark comes in two colorways. Additionally, our logo comes in vertical and horizontal versions.
 
-![codebar logotype](/images/logotype.png)
+#### Logo
 
-Logos
+![codebar logo](/images/codebar-logo.png)
+![codebar logo restricted](/images/codebar-logo-restricted.png)
 
-![codebar logo 1](/images/codebar-logo-160-001.png)
-![codebar logo 2](/images/codebar-logo-160-002.png)
-![codebar logo 3](/images/codebar-logo-160-003.png)
+#### Horizontal version of the logo
 
-Additionally, each chapter has it's own logo with the name of the city in all three combinations: 
+Used in cases where a horizontal logo fits better, e.g.: site headers, etc.
 
-![codebar Manchester logo 1](/images/codebar-manchester-160-001.png)
-![codebar Manchester logo 2](/images/codebar-manchester-160-002.png)
-![codebar Manchester logo 3](/images/codebar-manchester-160-003.png)
+![codebar logo horizontal version](/images/codebar-logo-horizontal.png)
 
-### Colors
+#### The mark
 
-<div class="color yellow">#F8Af3C</div>
-<div class="color purple">#A2539A</div>
-<div class="color blue">#AFdEf8</div>
-<div class="color green">#47AD4C</div>
-<div class="color orange">#E28</div>
+Use the mark when you have to represent codebar and only have a small area to do so. The mark works best as profile pictures, avatars, icons, etc. 
 
-### Font & typography
+![codebar mark in two colorways](/images/codebar-mark.png)
 
-- For our logos and logotype we use a free webfont called Monda. You can download Monda from github [here](https://github.com/vernnobile/mondaFont)
+#### Chapter logos
 
-- If you need to edit any of our assets, please use this font by downloading it and including it in your font library.
+Additionally, each chapter has it's own logo with the name of the city in it: 
 
-### Language
+![codebar Brighton logo](/images/codebar-logo-chapter-horizontal.png)
+
+## Colors
+
+<div class="color blue">#4bafff</div>
+<div class="color green">#19f3be</div>
+<div class="color magenta">#ff036a</div>
+
+## Font & typography
+
+The wordmark is a modified version of codebar written in Gotham Light. You can download this font from the internet. If you need to edit any of our assets, please use this font by downloading it and including it in your font library.
+
+## Language
 
 - We ALWAYS write codebar with a lowercase c, as opposed to a capital C. This is true even if codebar is the first word in a sentence.
 

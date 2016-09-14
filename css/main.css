@@ -1,12 +1,11 @@
 body {
   padding: 0;
   margin: 0;
-  font-family: proxima-nova,Helvetica,Arial,sans-serif;
+  font-family: proxima-nova, Helvetica, Arial, sans-serif;
   font-weight: 300;
 }
 
 header {
-  font-family: "Gabriela",serif;
   color: #000;
   padding: 20px 0 0;
   border-bottom: 1px solid #333;
@@ -15,6 +14,7 @@ header {
 
 h1 {
   font-size: 2.5rem;
+  color: #000;
 }
 
 a {
@@ -55,7 +55,7 @@ aside {
 }
 
 .post-content a {
-  color: #a2539a;
+  color: #4bafff;
 }
 
 nav ul {
@@ -105,36 +105,31 @@ tbody tr:hover td{
 
 .codebar-link i {
   margin-right: 4px;
-  color: #a2539a;
+  color: #4bafff;
 }
 
 .codebar-link a {
-  color: #a2539a;
+  color: #4bafff;
 }
 
 /**
  * Brandbook
  */
 .color {
-  width: 80px;
-  height: 80px;
-  display: inline-block;
+  width: 33%;
+  height: 100px;
+  float: left;
   text-align: center;
   color: #fff;
-  line-height: 80px;
-}
-.color.yellow {
-  background: #f8af3c;
-}
-.color.purple {
-  background: #a2539a;
+  line-height: 100px;
+  margin-bottom: 20px;
 }
 .color.blue {
-  background: #afdef8;
+  background: #4bafff;
 }
 .color.green {
-  background: #47ad4c;
+  background: #19f3be;
 }
-.color.orange {
-  background: #ea5b28;
+.color.magenta {
+  background: #ff036a;
 }
