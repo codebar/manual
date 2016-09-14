@@ -11,7 +11,7 @@ All of our assets can be downloaded from our [assets github page](https://github
 
 ### Logo
 
-Our logo, mark and wordmark comes in two colorways. Additionally, our logo comes in vertical and horizontal versions.
+Our logo, mark and wordmark comes in two colourways. Additionally, our logo comes in vertical and horizontal versions.
 
 #### Logo
 
@@ -26,13 +26,13 @@ Used in cases where a horizontal logo fits better, e.g.: site headers, etc.
 
 #### The mark
 
-Use the mark when you have to represent codebar and only have a small area to do so. The mark works best as profile pictures, avatars, icons, etc. 
+Use the mark when you have to represent codebar and only have a small area to do so. The mark works best as a profile picture, avatar, icon, etc.
 
-![codebar mark in two colorways](/images/codebar-mark.png)
+![codebar mark in two colourways](/images/codebar-mark.png)
 
 #### Chapter logos
 
-Additionally, each chapter has it's own logo with the name of the city in it: 
+Additionally, each chapter has it's own logo with the name of the city in it:
 
 ![codebar Brighton logo](/images/codebar-logo-chapter-horizontal.png)
 
@@ -65,6 +65,3 @@ The wordmark is a modified version of codebar written in Gotham Light. You can d
 |codebar Bournemouth  |Bournemouth codebar  |
 |codebar Cambridge  |Cambridge codebar  |
 |codebar Manchester  |Manchester codebar  |
-
-
-
