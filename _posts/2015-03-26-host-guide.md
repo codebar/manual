@@ -13,13 +13,13 @@ So you've decided to become a sponsor and host a codebar workshop. Thank you ver
 
 - As well as food, most of our sponsors provides drinks too. If you are planning on serving alcohol, please supply a non-alcoholic option too. Please at least supply water. 
 
-- Check if you have suitable WIFI in your office/event space. If you are expecting more than 20 people at the workshop, plan for a large number of people all trying to connect to the network at once.
+- Check if you have suitable WiFi in your office/event space. If you are expecting more than 20 people at the workshop, plan for a large number of people all trying to connect to the network at once.
 
 - Make sure you have enough power outlets in the space you are planning to use. If not, it might be a good idea to purchase some extension cables as people may need to plug their laptops in.
 
-- Some workshops have a lightning talk so access to a projector or tv would be great. If you would like to do a lightning talk at the workshop you are hosting, please let the codebar organisers know in advance so they can plan for it.
+- Some workshops have a lightning talk so access to a projector or TV would be great. If you would like to do a lightning talk at the workshop you are hosting, please let the codebar organisers know in advance so they can plan for it.
 
-- Send us a transparent png version of your logo so we can set you up on the events page on our site. We usually send out invites a week in advance of the workshop.
+- Send us a transparent png version of your logo so we can set you up on the events page on our site. We usually send out invites at least a week in advance of the workshop.
 
 - It would be really helpful if you could print name tags for the workshop. To do this you'll need to buy some generic printing labels. We usually use 2 x 7 layout.
 
@@ -33,7 +33,7 @@ So you've decided to become a sponsor and host a codebar workshop. Thank you ver
 
 - If it is possible could you please label one of your toilets as gender neutral. We recommend using [this sign.](http://www.uua.org/sites/live-new.uua.org/files/documents/lgbtq/gender_neutral_bathroom_11x17.pdf)
 
-- Please have your WIFI details clearly visible.
+- Please have your (guest) WiFi details displayed in prominent places.
 
 - If there are any further questions you have please don't hesitate to get in touch with any of the codebar team.
 
