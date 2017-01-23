@@ -1,12 +1,17 @@
 # Manual
 
-The purpose of it is to keep track of the codebar guidelines.
+The purpose of the manual is to keep track of the codebar guidelines.
 
 ## Getting started
 
 ### Install the gem
 
 ```bash
-gem install jekyll
+gem install github-pages
+```
+
+### Run a local jekyll server
+
+```bash
 jekyll serve
 ```
