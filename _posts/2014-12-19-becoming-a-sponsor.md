@@ -15,7 +15,7 @@ With food, please provide vegetarian, vegan and gluten-free options, and with dr
 
 We also like to hold lightning talks at the start of each event. If your space has a larger conference room with a projector (preferably HDMI and/or with an adapter for Mac Thunderports) please let us know in advance and have it ready to go on the day of the workshop.
 
-Finally, if your venue is not clearly visible from the street or the Google Places API incorrectly locates your office, please post signs to codebar for the attendees to more easily find the office.
+Finally, if your venue is not clearly visible from the street or the Google Places API incorrectly locates your office, please post signs to codebar for the attendees to more easily find the venue.
 
 ### About codebar
 
@@ -69,13 +69,13 @@ For our special day-long events such as Mind the Code or 24 Pull Requests, we ar
 - Your logo on our website
 
 
-*Our costs*
+*What your sponsorship money is being used for*
 
 - Breakfast
 - Lunch
 - Continuous supply of coffee
 - Printed materials to help get the word out
-- Travel costs to help students who live outside London get to the workshop
+- Travel support to help students who live outside London get to the workshop
 - Stickers, t-shirts and other swag
 - After party refreshments
 
