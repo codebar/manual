@@ -15,15 +15,15 @@ So you've decided to become a sponsor and host a codebar workshop? Awesome, than
 
 - To help us spread the word further, send us a transparent png version of your logo and we’ll set you up on the events page on our site.
 
-- Find a food supplier for the event. It’s important to provide vegetarian, vegan and gluten-free options too. If you need help finding places to order from, get in touch with the codebar organiser and they'll help you find a place.
+- Find a food supplier for the event. It’s important to provide vegetarian, vegan and gluten-free options too. If you need help finding places to order from, get in touch with the codebar organiser(s) and they'll help you find a place.
 
-- As well as food, most of our sponsors provides drinks too. If you're planning on serving alcohol, please supply a non-alcoholic option as well. Please at least supply water.
+- As well as food, most of our hosts provides drinks too. If you're planning on serving alcohol, please supply a non-alcoholic option as well. Please at least supply water.
 
 - Check if you have suitable WiFi in your office/event space. If you are expecting more than 20 people at the workshop, plan for a large number of people all trying to connect to the network at once.
 
-- Make sure you have enough power outlets in the space you are planning to use. If not, it might be a good idea to provide some extension cables as people may need to plug their laptops in.
+- Make sure you have enough power outlets in the space you are planning to use. If not, it might be a good idea to provide some extension cables as people will need to plug their laptops in.
 
-- Some workshops have a lightning talk, so access to a projector or TV would be great. If you would like to do a lightning talk at the workshop you are hosting, please let the codebar organiser know in advance so they can plan for it.
+- Some workshops have a lightning talk, so access to a projector or TV would be great. If you would like to do a lightning talk at the workshop you are hosting, please let the codebar organiser(s) know in advance so they can plan for it.
 
 - It would be really helpful if you could print name tags on the day of the workshop. If you can, make sure you have some printing labels to hand - you can find them at any office supplies store or even your local supermarket. We usually use 2 x 7 layout.
 
@@ -40,7 +40,7 @@ So you've decided to become a sponsor and host a codebar workshop? Awesome, than
 
 - Please have your (guest) WiFi details displayed in prominent places.
 
-- If there are any further questions you have, please don't hesitate to get in touch with any of the codebar team.
+- If you have any further questions, please don't hesitate to get in touch with any of the codebar team.
 
 
 #### At the workshop
