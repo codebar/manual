@@ -13,7 +13,7 @@ title: "Bringing codebar to your area"
 
 We can also help with:
 
-- promoting your chapter through our Twitter account ([@codebar](https://twitter.com/codebar), 2000+ followers and growing)
+- promoting your chapter through our Twitter account [@codebar](https://twitter.com/codebar) with 2000+ followers and growing
 
 - reaching out to potential venues, sponsors and coaches in your city
 
@@ -31,5 +31,4 @@ For more information on what it takes to be a codebar organiser and to sponsor w
 
 - [sponsoring](http://manual.codebar.io/becoming-a-sponsor.html)
 
-You should also take a look at our [Code of Conduct](http://codebar.io/code-of-conduct) and the [values](/our-values.html) that represent us.
-
+You should also take a look at our [Code of Conduct](http://codebar.io/code-of-conduct) and the [values](/our-values.html) we represent.
