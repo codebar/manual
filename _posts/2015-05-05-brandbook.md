@@ -3,15 +3,15 @@ layout: post
 title:  "Brandbook"
 ---
 
-Welcome! This one page document is a short introduction to the codebar brand. It is very much in progress and is meant to give you a high level overview about the do’s and dont’s of the codebar brand.
+Welcome! This one page document is a short introduction to the codebar brand. It is very much work in progress and is meant to give you a high level overview about the Dos and Donts of the codebar brand.
 
 ## Assets
 
-All of our assets can be downloaded from our [assets github page](https://github.com/codebar/assets).
+All of our assets can be downloaded from our [assets GitHub repository](https://github.com/codebar/assets).
 
 ### Logo
 
-Our logo, mark and wordmark comes in two colourways. Additionally, our logo comes in vertical and horizontal versions.
+Our logo, mark and wordmark comes in two colour ways. Additionally, our logo comes in vertical and horizontal versions.
 
 #### Logo
 
@@ -48,7 +48,7 @@ The wordmark is a modified version of codebar written in Gotham Light. You can d
 
 ## Language
 
-- We ALWAYS write codebar with a lowercase c, as opposed to a capital C. This is true even if codebar is the first word in a sentence.
+- We **always** write codebar with a lowercase c, as opposed to a capital C. This is true even if codebar is the first word in a sentence!
 
 - When we refer to codebar in writing we use the short verison - codebar - as opposed to the long version - codebar.io - which we use in the logos.
 
