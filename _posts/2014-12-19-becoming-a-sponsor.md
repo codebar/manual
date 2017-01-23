@@ -33,7 +33,7 @@ Despite the fact that our events are run on a volunteer basis, there are of cour
 
 ### Why should you sponsor?
 
-As a sponsor of any of codebar’s events, you will be part of the vibrant community facilitating the growth of a diverse community. We have a strict yet simple [code of conduct](http://codebar.io/code-of-conduct) that includes more detailed information.
+As a sponsor of any of codebar’s events, you will be part of the vibrant community facilitating the growth of a diverse community. We have a strict yet simple [code of conduct](https://codebar.io/code-of-conduct) that includes more detailed information.
 
 You will be helping to promote diversity within the tech sector and be part of an exciting community committed to narrowing the skills gap. Not only that, but you will also be contributing to the growth of much-needed technical skills giving a further boost to the post-recession economy.
 
@@ -46,7 +46,7 @@ Whatever investment you choose, your logo will appear on the codebar website alo
 
 There are different ways that you can help and support our vibrant and growing community. You can be a regular workshop supporter and offer your venue and food to a substantial amount of workshops taking place in your area or be a workshop supporter and help by taking care of one of our workshops every now and then.
 
-We also welcome monetary sponsorship to help us cover other expenses. The best way to make a monetary contribution is to use our online [donation portal](http://donate.codebar.io).
+We also welcome monetary sponsorship to help us cover other expenses. The best way to make a monetary contribution is to use our online [donation portal](https://donate.codebar.io).
 
 
 ### Sponsorship Packages
