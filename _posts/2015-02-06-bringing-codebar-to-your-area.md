@@ -27,8 +27,8 @@ We also encourage you to join our [Slack group](https://codebar-slack.herokuapp.
 
 For more information on what it takes to be a codebar organiser and to sponsor workshops, please refer to these entries of this manual:
 
-- [organiser guide](http://manual.codebar.io/organiser-guide.html)
+- [Organiser guide](/organiser-guide.html)
 
-- [sponsoring](http://manual.codebar.io/becoming-a-sponsor.html)
+- [Sponsoring](/becoming-a-sponsor.html)
 
 You should also take a look at our [Code of Conduct](https://codebar.io/code-of-conduct) and the [values](/our-values.html) we represent.
