@@ -11,7 +11,7 @@ We have a dedicated mailing lists for our students, as well as regular emails in
 
 - Any offers/courses sent must be aimed at beginner to intermediate level developers and should specify the prerequisites and background knowledge required for someone to attend - we welcome free conference tickets too!
 
-- All communication that you want us to forward to the codebar mailing list must align with the codebar [Code of Conduct](http://codebar.io/code-of-conduct).
+- All communication that you want us to forward to the codebar mailing list must align with the codebar [Code of Conduct](https://codebar.io/code-of-conduct).
 
 - No abusive, exclusionary or discriminatory language.
 
