@@ -44,7 +44,7 @@ You can also use different color stickers for the organisers and anyone helping 
 
 ### At the event
 
-As people arrive at the event check them in through the workshop admin page, and double check what tutorials the students have signed up for so that you can pair them up prior to the event. Also, make sure you give them their name tag. Doing all of this will enable you to track demand and enforce the codebar attendance policy. The coaches will also only start appearing in the [coach ranking](http://codebar.io/coaches) after their attendance is confirmed.
+As people arrive at the event check them in through the workshop admin page, and double check what tutorials the students have signed up for so that you can pair them up prior to the event. Also, make sure you give them their name tag. Doing all of this will enable you to track demand and enforce the codebar attendance policy. The coaches will also only start appearing in the [coach ranking](https://codebar.io/coaches) after their attendance is confirmed.
 
 Make sure the WiFi details are displayed in prominent places.
 
@@ -64,6 +64,6 @@ Encourage them to come to any social events following the workshop. Usually peop
 
 Part of your job as organiser is to make sure that everyone feels welcome and comfortable. This might occasionally mean that you have to deal with small issues or potentially ban people from attending future codebar events.
 
-This is not something that anyone enjoys doing, however, our attendees are our priority and we need to make sure that codebar's [Code of Conduct](http://codebar.io/code-of-conduct) is enforced.
+This is not something that anyone enjoys doing, however, our attendees are our priority and we need to make sure that codebar's [Code of Conduct](https://codebar.io/code-of-conduct) is enforced.
 
 If someone comes to you with a complaint, act on it promptly. If attendees are involved, speak to them or send them an email after the event. If you feel that you are unable to deal with this, you are more than welcome to send an email to <london@codebar.io> and we will do our best to help you out or deal with any issues.
