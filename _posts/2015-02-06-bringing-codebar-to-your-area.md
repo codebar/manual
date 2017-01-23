@@ -23,7 +23,7 @@ We can also help with:
 
 If you are struggling to either find a venue or a sponsor to cover food costs, we might be able to help you. Just let us know.
 
-We also encourage you to join our [Slack group](http://codebar-slack.herokuapp.com/) where you can ask questions from existing organisers, coaches and students. We could even set you up a chaprer specific channel if you'd like.
+We also encourage you to join our [Slack group](https://codebar-slack.herokuapp.com/) where you can ask questions from existing organisers, coaches and students. We could even set you up a chaprer specific channel if you'd like.
 
 For more information on what it takes to be a codebar organiser and to sponsor workshops, please refer to these entries of this manual:
 
@@ -31,4 +31,4 @@ For more information on what it takes to be a codebar organiser and to sponsor w
 
 - [sponsoring](http://manual.codebar.io/becoming-a-sponsor.html)
 
-You should also take a look at our [Code of Conduct](http://codebar.io/code-of-conduct) and the [values](/our-values.html) we represent.
+You should also take a look at our [Code of Conduct](https://codebar.io/code-of-conduct) and the [values](/our-values.html) we represent.
