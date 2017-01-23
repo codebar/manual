@@ -29,8 +29,6 @@ You should aim to list your events at least a week before they take place to giv
 
 Anyone signed up to codebar will be able to RSVP to the event through the workshop page but only people subscribed to your chapter will receive an email invitation.
 
-To find out more about how to manage the codebar application read our [Organiser Guide]().
-
 #### Name badges
 
 Giving people name badges helps out a lot. Remembering new names can be hard, especially for newcomers and this enables the attendees to always know who they are talking to and if they are a student or a coach, to avoid confusion.
