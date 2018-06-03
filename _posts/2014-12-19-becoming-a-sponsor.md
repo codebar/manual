@@ -5,35 +5,33 @@ title:  "Sponsoring"
 
 ### How to sponsor a workshop
 
-- Workshops usually range from 40-60 attendees, but can be higher or lower based on the capacity of the venue and the size of the chapter.
+- Depending on the location workshop attendee numbers can range from as low as 10 to as high as 60, so for exact details you should send an email to hello@codebar.io enquiring about the specifics of a chapter.
 
-The minimum requirements for hosting a workshop are desk space, power outlets, and a stable internet connection.
+- The minimum requirements for hosting a workshop are desk space, power outlets, and a stable internet connection
 
-Additionally, we encourage sponsors to provide food and drinks. Since codebar workshops typically take place immediately after work for many students and coaches, it is recommended that hosts provide some hot food, as attendees will not have another chance to eat dinner. In London, the typical spend for hot food is roughly £200-250 for one workshop; outside of central London it can be lower.
+- We encourage providing food and drinks. Since our workshops typically take place immediately after work for many students and coaches, it is recommended that hosts provide some hot food, as attendees will not have another chance to eat dinner. In London, the typical spend for hot food is roughly £200-250 for one workshop; outside of central London it can be much lower.
 
-With food, please provide vegetarian, vegan and gluten-free options, and with drinks, please provide non-alcoholic drinks if you are planning on providing beer or wine. If you would like recommendations for food, please get in touch with your chapter organizers.
+  - Food options: try to provide some vegetarian, vegan and gluten-free options - everyone will eat vegetarian food but not the other way around so try to keep it at a 50-50.  If you would like recommendations for food, please get in touch with your chapter organisers.
+  - Drinks: Please make sure you provide non-alcoholic drinks and water. Some locations also prefer to keep their workshop alcohol free so make sure you speak with the organisers  if you are planning on providing beer or wine.
 
-We also like to hold lightning talks at the start of each event. If your space has a larger conference room with a projector (preferably HDMI and/or with an adapter for Mac Thunderports) please let us know in advance and have it ready to go on the day of the workshop.
 
-Finally, if your venue is not clearly visible from the street or the Google Places API incorrectly locates your office, please post signs to codebar for the attendees to more easily find the venue.
+- Some chapters hold lightning talks at the start of each event. If your space has a larger conference room with a projector (preferably HDMI and/or with an adapter for Mac Thunderports) please let us know in advance and have it ready to go on the day of the workshop.
+
+- Make sure your location is clearly visible  from the street or the Google Places API,  and post signs to codebar for the attendees to more easily find the venue.
 
 ### About codebar
 
-codebar is a not-for-profit organisation that has been running weekly coding workshops since October 2013, with London as its first chapter. Since then we have expanded to running workshops in South London, West London, Brighton, Bournemouth, Cambridge, Birmingham, and Manchester and now have a community consisting of over 1600 members in our London chapter, 350 in Brighton and 130 in Cambridge.
+codebar is a not-for-profit organisation that has been running weekly coding workshops since October 2013, with London as its first chapter. Since then we have expanded to running workshops in 15 different cities from  Brighton to Manchester and Edinbrugh, New York, Berlin, Sydney and the list goes on.
 
-We have coached over 1000 students, with new people attending our events every week and a waiting list of 30-50 students at our London events. This has grown our developer base rapidly in a short period of time but it has also substantially increased demand for space, coaches and resources. This in turn requires a substantial expansion in sponsorship investment so that we can not just run workshops across London smoothly, but also be able to provide help and support to our other chapters.
+We have coached over 1000 students, with new people attending our events every week and a long waiting list at our London events. This has grown our developer base rapidly in a short period of time but it has also substantially increased demand for space, coaches and resources. This in turn requires a substantial expansion in sponsorship investment so that we can not just run workshops across London smoothly, but also be able to provide help and support to our smaller chapters.
 
-Workshops are currently held weekly in London and Brighton, and every forthright in Cambridge, Bournemouth and Birmingham. We are also trying to take codebar to more cities, in and out of the UK. If you are a sponsor interested in helping get codebar started in your city, we'd be delighted to talk to you about hosting and sponsoring regular events.
-
-In addition to our weekly workshops, occasionally we hold one-day courses for existing and new students on more specialised topics (like HTTP Fundamentals, Git, Public Speaking etc.) as well as one-day coding events.
+If you are a sponsor interested in helping get codebar started in your city, we'd be delighted to talk to you about how you can help with hosting and sponsoring regular events.
 
 All of codebar’s events are run on a volunteer basis, with every subject expert and coach giving their time for free.
 
-Despite the fact that our events are run on a volunteer basis, there are of course still costs associated with both the general running of codebar as well as our specific events.
-
 ### Why should you sponsor?
 
-As a sponsor of any of codebar’s events, you will be part of the vibrant community facilitating the growth of a diverse community. We have a strict yet simple [code of conduct](https://codebar.io/code-of-conduct) that includes more detailed information.
+As a codebar sponsor, you will be part of the vibrant community facilitating the growth of a diverse community. We have a strict yet simple [code of conduct](https://codebar.io/code-of-conduct) that includes more detailed information.
 
 You will be helping to promote diversity within the tech sector and be part of an exciting community committed to narrowing the skills gap. Not only that, but you will also be contributing to the growth of much-needed technical skills giving a further boost to the post-recession economy.
 
