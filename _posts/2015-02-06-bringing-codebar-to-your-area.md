@@ -13,7 +13,7 @@ title: "Bringing codebar to your area"
 
 We can also help with:
 
-- promoting your chapter through our Twitter account [@codebar](https://twitter.com/codebar) with 2000+ followers and growing
+- promoting your chapter through our Twitter account [@codebar](https://twitter.com/codebar) with 5500+ followers and growing
 
 - reaching out to potential venues, sponsors and coaches in your city
 
