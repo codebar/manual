@@ -23,7 +23,7 @@ title:  "Sponsoring"
 
 codebar is a not-for-profit organisation that has been running weekly coding workshops since October 2013, with London as its first chapter. Since then we have expanded to running workshops in 15 different cities from  Brighton to Manchester and Edinbrugh, New York, Berlin, Sydney and the list goes on.
 
-We have coached over 1000 students, with new people attending our events every week and a long waiting list at our London events. This has grown our developer base rapidly in a short period of time but it has also substantially increased demand for space, coaches and resources. This in turn requires a substantial expansion in sponsorship investment so that we can not just run workshops across London smoothly, but also be able to provide help and support to our smaller chapters.
+We have coached over 3000 students, with new people attending our events every week and a long waiting list at our London events. This has grown our developer base rapidly in a short period of time but it has also substantially increased demand for space, coaches and resources. This in turn requires a substantial expansion in sponsorship investment so that we can not just run workshops across London smoothly, but also be able to provide help and support to our smaller chapters.
 
 If you are a sponsor interested in helping get codebar started in your city, we'd be delighted to talk to you about how you can help with hosting and sponsoring regular events.
 
