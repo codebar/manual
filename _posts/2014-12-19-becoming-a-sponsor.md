@@ -21,7 +21,7 @@ title:  "Sponsoring"
 
 ### About codebar
 
-codebar is a not-for-profit organisation that has been running weekly coding workshops since October 2013, with London as its first chapter. Since then we have expanded to running workshops in 15 different cities from  Brighton to Manchester and Edinbrugh, New York, Berlin, Sydney and the list goes on.
+codebar is a not-for-profit organisation that has been running weekly coding workshops since October 2013, with London as its first chapter. Since then we have expanded to running workshops in 17 different cities from  Brighton to Manchester and Edinbrugh, New York, Berlin, Sydney and the list goes on.
 
 We have coached over 3000 students, with new people attending our events every week and a long waiting list at our London events. This has grown our developer base rapidly in a short period of time but it has also substantially increased demand for space, coaches and resources. This in turn requires a substantial expansion in sponsorship investment so that we can not just run workshops across London smoothly, but also be able to provide help and support to our smaller chapters.
 
@@ -59,7 +59,7 @@ We are always looking for new sponsors to get involved. The packages are as foll
 - Your logo on a dedicated sponsors slide in any of our conference presentations
 - Your logo listed on top of our Sponsors page under Gold tier
 - Promote any Junior Developer roles you have on our website, Twitter, and Slack
-- A shoutout to our 5400+ Twitter followers
+- A shoutout to our 5700+ Twitter followers
 - A blog post dedicated to your company and your support of codebar
 
 *£2500*
@@ -68,7 +68,7 @@ We are always looking for new sponsors to get involved. The packages are as foll
 - 5 minute lightning talk about your company, and what you do, at our weekly workshops
 - Your logo printed on any marketing materials we produce (leaflets, flyers, etc.)
 - Your logo listed on our Sponsors page under Silver tier
-- A shoutout to our 5400+ Twitter followers
+- A shoutout to our 5700+ Twitter followers
 - A blog post dedicated to your company and their support of codebar
 
 
@@ -76,7 +76,7 @@ We are always looking for new sponsors to get involved. The packages are as foll
 
 - 1 spot at a codebar workshop or event for your employees
 - Your logo listed on top of our Sponsors page under Bronze tier
-- A shoutout to our 5400+ Twitter followers
+- A shoutout to our 5700+ Twitter followers
 - A mention of your contribution when the money is used, either on Twitter or on our blog
 
 
