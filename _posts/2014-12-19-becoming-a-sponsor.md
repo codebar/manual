@@ -21,7 +21,7 @@ title:  "Sponsoring"
 
 ### About codebar
 
-codebar is a not-for-profit organisation that has been running weekly coding workshops since October 2013, with London as its first chapter. Since then we have expanded to running workshops in 15 different cities from  Brighton to Manchester and Edinbrugh, New York, Berlin, Sydney and the list goes on.
+codebar is a not-for-profit organisation that has been running weekly coding workshops since October 2013, with London as its first chapter. Since then we have expanded to running workshops in 17 different cities from  Brighton to Manchester and Edinbrugh, New York, Berlin, Sydney and the list goes on.
 
 We have coached over 3000 students, with new people attending our events every week and a long waiting list at our London events. This has grown our developer base rapidly in a short period of time but it has also substantially increased demand for space, coaches and resources. This in turn requires a substantial expansion in sponsorship investment so that we can not just run workshops across London smoothly, but also be able to provide help and support to our smaller chapters.
 
@@ -49,33 +49,52 @@ We also welcome monetary sponsorship to help us cover other expenses. The best w
 
 ### Sponsorship Packages
 
-For our special day-long events such as Mind the Code or 24 Pull Requests, we are always looking for new sponsors to get involved. The packages are as follows:
+We are always looking for new sponsors to get involved. The packages are as follows:
 
-*£500*
+*£5000*
 
-- 10 minute slot at the beginning of the event
-- Your logo on our website
-- Your logo on a banner during the event
+- 5 spots at a codebar workshop or event for your employees
+- 5 minute lightning talk about your company, and what you do, at one of our weekly workshops
+- Your logo printed on any marketing materials we produce (leaflets, flyers, etc.)
+- Your logo on a dedicated sponsors slide in any of our conference presentations
+- Your logo listed on top of our Sponsors page under Gold tier
+- Promote any Junior Developer roles you have on our website, Twitter, and Slack
+- A shoutout to our 5700+ Twitter followers
+- A blog post dedicated to your company and your support of codebar
 
-*£250*
+*£2500*
 
-- 5 minute slot at the beginning of the event
-- Your logo on our website
+- 3 spots at a codebar workshop or event for your employees
+- 5 minute lightning talk about your company, and what you do, at our weekly workshops
+- Your logo printed on any marketing materials we produce (leaflets, flyers, etc.)
+- Your logo listed on our Sponsors page under Silver tier
+- A shoutout to our 5700+ Twitter followers
+- A blog post dedicated to your company and their support of codebar
 
-*£100*
 
-- Your logo on our website
+*£1000*
+
+- 1 spot at a codebar workshop or event for your employees
+- Your logo listed on top of our Sponsors page under Bronze tier
+- A shoutout to our 5700+ Twitter followers
+- A mention of your contribution when the money is used, either on Twitter or on our blog
+
+
+*Why sponsor us*
+
+Women in the UK make up 46% of the workforce but in technology the number drops to less than 20%. Stereotypes, socio-psychological factors, external barriers such as male dominated environments and a lack of role models in the sector are some of the contributing factors.
+
+Supporting us means you provide women, non-binary, LGBTQ+, and other under-represented groups the tools to get started with their development career and further current skills.
+
+Sponsoring us is also a great way to attract fresh and passionate talent to your company and to show your active efforts in tackling the industry’s diversity problem.
 
 
 *What your sponsorship money is being used for*
 
-- Breakfast
-- Lunch
-- Continuous supply of coffee
-- Printed materials to help get the word out
-- Travel support to help students who live outside London get to the workshop
-- Stickers, t-shirts and other swag
-- After party refreshments
+- Paying for our infrastructure costs (we pay all services we use to manage both technical and administrative aspects of codebar from hosting, to accounting etc)
+- Promotional materials to help get the word out
+- Support for chapters that are at times unable to find local sponsorship for their workshops
+- Running more specialised events (all our events are free and run by volunteers - but we still need to handle food catering, marketing, planning and other administrative costs)
 
 ### What do you get in return?
 
