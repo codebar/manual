@@ -69,6 +69,10 @@ Encourage them to come to any social events following the workshop. Usually peop
 
 Part of your job as organiser is to make sure that everyone feels welcome and comfortable. This might occasionally mean that you have to deal with small issues or potentially ban people from attending future codebar events.
 
-This is not something that anyone enjoys doing, however, our attendees are our priority and we need to make sure that codebar's [Code of Conduct](https://codebar.io/code-of-conduct) is enforced.
+This is not something that anyone enjoys doing, however, our attendees are our priority and we need to make sure that codebar's [Code of Conduct](https://codebar.io/code-of-conduct) and [Eligibility Criteria](https://codebar.io/student-guide#eligibility) are enforced.
 
-If someone comes to you with a complaint, act on it promptly. If attendees are involved, speak to them or send them an email after the event. If you feel that you are unable to deal with this, you are more than welcome to send an email to <london@codebar.io> and we will do our best to help you out or deal with any issues.
+If someone comes to you with a complaint, act on it promptly. If attendees are involved, speak to them in a private area where you cannot be overheard, or send them an email after the event. When passing on negative feedback about a coach, you may need to ask the student’s permission first, as this information can be identifying.
+
+For difficult eligibility conversations, it often helps to remind people that our coaches, organisers and hosts donate their time and money to help those who have faced unfair barriers to entry into the tech world.
+
+If you feel that you are unable to deal with this, you are more than welcome to send an email to <london@codebar.io> and we will do our best to help you out or deal with any issues.
