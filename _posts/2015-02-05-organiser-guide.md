@@ -29,6 +29,8 @@ You should aim to list your events at least a week before they take place to giv
 
 Anyone signed up to codebar will be able to RSVP to the event through the workshop page but only people subscribed to your chapter will receive an email invitation.
 
+A few days out from the event, review the list of students for first-time attendees (anyone with a paw icon next to their name), and look for those with male pronouns or masculine-associated names. See if you can find their social media profile and check whether they meet the [eligibility criteria](https://codebar.io/student-guide#eligibility). If you're not able to find any information to indicate that they do meet the eligibility criteria, click the 'Eligibility' button on their profile to send out an automated eligibility check email. If they confirm that they're eligible, add a note to their profile so that you don't have to do this again. If they don't respond by midday on the day of the workshop, it's up to you whether you have a chat to them at the workshop or just remove them from the list.
+
 #### Name badges
 
 Giving people name badges helps out a lot. Remembering new names can be hard, especially for newcomers and this enables the attendees to always know who they are talking to and if they are a student or a coach, to avoid confusion.
