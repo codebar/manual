@@ -75,4 +75,4 @@ If someone comes to you with a complaint, act on it promptly. If attendees are i
 
 For difficult eligibility conversations, it often helps to remind people that our coaches, organisers and hosts donate their time and money to help those who have faced unfair barriers to entry into the tech world.
 
-If you feel that you are unable to deal with this, you are more than welcome to send an email to <london@codebar.io> and we will do our best to help you out or deal with any issues.
+If you feel that you are unable to deal with this, you are more than welcome to send an email to <hello@codebar.io> and we will do our best to help you out or deal with any issues.
