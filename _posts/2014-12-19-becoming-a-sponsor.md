@@ -45,7 +45,7 @@ Whatever investment you choose, your logo will appear on the codebar website alo
 
 There are different ways that you can help and support our vibrant and growing community. You can be a regular workshop supporter and offer your venue and food to a substantial amount of workshops taking place in your area or be a workshop supporter and help by taking care of one of our workshops every now and then.
 
-We also welcome monetary sponsorship to help us cover other expenses. The best way to make a monetary contribution is to use our online [donation portal](https://donate.codebar.io).
+We also welcome monetary sponsorship to help us cover other expenses. The best way to make a monetary contribution is to use our online [donation portal](https://codebar.io/donations/new).
 
 
 ### Sponsorship Packages
