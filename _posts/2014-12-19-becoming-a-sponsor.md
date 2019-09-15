@@ -16,13 +16,13 @@ title:  "Sponsoring"
   - Drinks: Please make sure you provide non-alcoholic drinks and water. Some locations also prefer to keep their workshop alcohol free so make sure you speak with the organisers if you are planning on providing beer or wine.
 
 
-- Some chapters hold lightning talks at the start of each event. If your space has a larger conference room with a projector (preferably HDMI and/or with an adapter for Mac Thunderports) please let us know in advance and have it ready to go on the day of the workshop.
+- Some chapters hold lightning talks at the start of each event. If your space has a larger conference room with a projector (preferably HDMI and/or with an adapter for Mac Thunderbolt ports) please let us know in advance and have it ready to go on the day of the workshop.
 
 - Make sure your location is clearly visible from the street or the Google Places API, and post signs directing attendees to the venue.
 
 ### About codebar
 
-codebar is a not-for-profit organisation that has been running weekly coding workshops since October 2013, with London as its first chapter. Since then we have expanded to running workshops in 17 different cities from Brighton to Manchester and Edinbrugh to New York, and Berlin, Sydney, and the list goes on.
+codebar is a not-for-profit organisation that has been running weekly coding workshops since October 2013, with London as its first chapter. Since then we have expanded to running workshops in 17 different cities from Brighton to Manchester and Edinburgh to New York, and Berlin, Sydney, and the list goes on.
 
 We have coached over 3000 students, with new people attending our events every week and a long waiting list at our London events. Because of this our developer base has grown rapidly in a short period of time, but it has also substantially increased demand for space, coaches and resources. This in turn requires a substantial expansion in sponsorship investment so that we can not just run workshops across London smoothly, but also be able to provide help and support to our smaller chapters.
 
