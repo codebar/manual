@@ -60,7 +60,7 @@ We are always looking for new sponsors to get involved. The packages are as foll
 - Your logo on a dedicated sponsors slide in any of our conference presentations
 - Your logo listed on top of our sponsors page under 'Gold' tier
 - Promote any Junior Developer roles you have on our website, Twitter, and Slack
-- A shoutout to our 5700+ Twitter followers
+- A shoutout to our 7500+ Twitter followers
 - A blog post dedicated to your company and your support of codebar
 
 *£2500*
@@ -69,7 +69,7 @@ We are always looking for new sponsors to get involved. The packages are as foll
 - 5 minute lightning talk about your company, and what you do, at our weekly workshops
 - Your logo printed on any marketing materials we produce (leaflets, flyers, etc.)
 - Your logo listed on our Sponsors page under Silver tier
-- A shoutout to our 5700+ Twitter followers
+- A shoutout to our 7500+ Twitter followers
 - A blog post dedicated to your company and their support of codebar
 
 
@@ -77,7 +77,7 @@ We are always looking for new sponsors to get involved. The packages are as foll
 
 - 1 spot at a codebar workshop or event for your employees
 - Your logo listed on top of our Sponsors page under Bronze tier
-- A shoutout to our 6400+ Twitter followers
+- A shoutout to our 7500+ Twitter followers
 - A mention of your contribution when the money is used, either on Twitter or on our blog
 
 
