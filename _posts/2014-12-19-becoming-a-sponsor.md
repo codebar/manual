@@ -81,7 +81,7 @@ We are always looking for new sponsors to get involved. The packages are as foll
 - A mention of your contribution when the money is used, either on Twitter or on our blog
 
 
-*Why sponsor us*
+#### Why sponsor us
 
 Women in the UK make up 46% of the workforce but in technology the number drops to less than 20%. Stereotypes, socio-psychological factors, external barriers such as male-dominated environments and a lack of role models in the sector are some of the contributing factors.
 
@@ -90,7 +90,7 @@ Supporting us means you provide women, non-binary, LGBTQ+, and other under-repre
 Sponsoring us is also a great way to attract fresh and passionate talent to your company and to show your active efforts in tackling the industry’s diversity problem.
 
 
-*What your sponsorship money is being used for*
+#### What your sponsorship money is being used for
 
 - Our infrastructure costs (we pay all services we use to manage both technical and administrative aspects of codebar from hosting, to accounting etc)
 - Promotional materials to help get the word out
