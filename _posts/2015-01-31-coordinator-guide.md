@@ -39,7 +39,7 @@ codebar workshops are a team effort and we really appreciate you wanting to help
 
 8. If they feel uncomfortable with someone's behaviour, they should bring it to the attention of one of the organisers. It is very important to us that everyone feels safe and comfortable.
 
-9. Thank them for coming. We appreciate their help and any feedback that they may have, as without them we wouldn't be able to have codebar! Let them know that they can get in contact with us at the local chapter's mailing list (e.g. brighton@codebar.io).
+9. Thank them for coming. We appreciate their help and any feedback that they may have, as without them we wouldn't be able to have codebar! Let them know that they can get in contact with us at the local chapter's mailing list (e.g. <brighton@codebar.io>).
 
 12. Encourage them to come to the social gathering afterwards, which is a great way to meet new people. They should come.
 

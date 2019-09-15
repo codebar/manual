@@ -5,7 +5,7 @@ title:  "Sponsoring"
 
 ### How to sponsor a workshop
 
-- Depending on the location, event attendee numbers can range from as low as 10 to as high as 60, so for exact details you should send an email to hello@codebar.io enquiring about the specifics of hosting events with different codebar chapters.
+- Depending on the location, event attendee numbers can range from as low as 10 to as high as 60, so for exact details you should send an email to <hello@codebar.io> enquiring about the specifics of hosting events with different codebar chapters.
 
 - The minimum requirements for hosting an event incude providing desk space, power outlets, and a stable internet connection.
 
