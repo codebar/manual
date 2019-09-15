@@ -50,7 +50,7 @@ codebar workshops are a team effort and we really appreciate you wanting to help
 2. How did they hear about codebar? What made them want to come along?
 
 3.  Have they done any development before?
-    -  If yes, what was that? Do they have a goal in mind? (e.g. Are they trying to build their own web app or a portfolio?)`
+    -  If yes, what was that? Do they have a goal in mind? (e.g. Are they trying to build their own web app or a portfolio?)
 
 4. Are you a student? Speak to them about your experience and how programming has changed things for you.
 
