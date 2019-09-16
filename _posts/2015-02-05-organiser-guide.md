@@ -39,7 +39,7 @@ If the attendee list is long, you might want to have the labels printed instead.
 
 You will then have to get the list of the event attendees so you can import it and generate the template. You can do that by clicking *Export attendees* on the workshop's admin page. The list of attendees can also be retrieved by appending `.csv` to any invitation URL.
 
-If you don't have access to a printer at work, ask your host if they are able to handle printing the badges and supplying the labels. Alternatively, provide blank labes and sharpies so attendees can make their own badges.
+If you don't have access to a printer at work, ask your host if they are able to handle printing the badges and supplying the labels. Alternatively, provide blank labels and sharpies so attendees can make their own badges.
 
 You can also use different color stickers for the organisers and anyone helping out so that attendees know who to speak to if they need any help.
 

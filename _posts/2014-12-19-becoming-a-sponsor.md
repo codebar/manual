@@ -5,7 +5,7 @@ title:  "Sponsoring"
 
 ### How to sponsor a workshop
 
-- Depending on the location, event attendee numbers can range from as low as 10 to as high as 60, so for exact details you should send an email to hello@codebar.io enquiring about the specifics of hosting events with different codebar chapters.
+- Depending on the location, event attendee numbers can range from as low as 10 to as high as 60, so for exact details you should send an email to <hello@codebar.io> enquiring about the specifics of hosting events with different codebar chapters.
 
 - The minimum requirements for hosting an event incude providing desk space, power outlets, and a stable internet connection.
 
@@ -16,13 +16,13 @@ title:  "Sponsoring"
   - Drinks: Please make sure you provide non-alcoholic drinks and water. Some locations also prefer to keep their workshop alcohol free so make sure you speak with the organisers if you are planning on providing beer or wine.
 
 
-- Some chapters hold lightning talks at the start of each event. If your space has a larger conference room with a projector (preferably HDMI and/or with an adapter for Mac Thunderports) please let us know in advance and have it ready to go on the day of the workshop.
+- Some chapters hold lightning talks at the start of each event. If your space has a larger conference room with a projector (preferably HDMI and/or with an adapter for Mac Thunderbolt ports) please let us know in advance and have it ready to go on the day of the workshop.
 
 - Make sure your location is clearly visible from the street or the Google Places API, and post signs directing attendees to the venue.
 
 ### About codebar
 
-codebar is a not-for-profit organisation that has been running weekly coding workshops since October 2013, with London as its first chapter. Since then we have expanded to running workshops in 17 different cities from Brighton to Manchester and Edinbrugh to New York, and Berlin, Sydney, and the list goes on.
+codebar is a not-for-profit organisation that has been running weekly coding workshops since October 2013, with London as its first chapter. Since then we have expanded to running workshops in 17 different cities from Brighton to Manchester and Edinburgh to New York, and Berlin, Sydney, and the list goes on.
 
 We have coached over 3000 students, with new people attending our events every week and a long waiting list at our London events. Because of this our developer base has grown rapidly in a short period of time, but it has also substantially increased demand for space, coaches and resources. This in turn requires a substantial expansion in sponsorship investment so that we can not just run workshops across London smoothly, but also be able to provide help and support to our smaller chapters.
 
@@ -60,7 +60,7 @@ We are always looking for new sponsors to get involved. The packages are as foll
 - Your logo on a dedicated sponsors slide in any of our conference presentations
 - Your logo listed on top of our sponsors page under 'Gold' tier
 - Promote any Junior Developer roles you have on our website, Twitter, and Slack
-- A shoutout to our 5700+ Twitter followers
+- A shoutout to our 7500+ Twitter followers
 - A blog post dedicated to your company and your support of codebar
 
 *£2500*
@@ -69,7 +69,7 @@ We are always looking for new sponsors to get involved. The packages are as foll
 - 5 minute lightning talk about your company, and what you do, at our weekly workshops
 - Your logo printed on any marketing materials we produce (leaflets, flyers, etc.)
 - Your logo listed on our Sponsors page under Silver tier
-- A shoutout to our 5700+ Twitter followers
+- A shoutout to our 7500+ Twitter followers
 - A blog post dedicated to your company and their support of codebar
 
 
@@ -77,11 +77,11 @@ We are always looking for new sponsors to get involved. The packages are as foll
 
 - 1 spot at a codebar workshop or event for your employees
 - Your logo listed on top of our Sponsors page under Bronze tier
-- A shoutout to our 6400+ Twitter followers
+- A shoutout to our 7500+ Twitter followers
 - A mention of your contribution when the money is used, either on Twitter or on our blog
 
 
-*Why sponsor us*
+#### Why sponsor us
 
 Women in the UK make up 46% of the workforce but in technology the number drops to less than 20%. Stereotypes, socio-psychological factors, external barriers such as male-dominated environments and a lack of role models in the sector are some of the contributing factors.
 
@@ -90,7 +90,7 @@ Supporting us means you provide women, non-binary, LGBTQ+, and other under-repre
 Sponsoring us is also a great way to attract fresh and passionate talent to your company and to show your active efforts in tackling the industry’s diversity problem.
 
 
-*What your sponsorship money is being used for*
+#### What your sponsorship money is being used for
 
 - Our infrastructure costs (we pay all services we use to manage both technical and administrative aspects of codebar from hosting, to accounting etc)
 - Promotional materials to help get the word out

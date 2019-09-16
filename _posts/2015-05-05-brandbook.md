@@ -20,7 +20,7 @@ Our logo, mark and wordmark comes in two colour ways. Additionally, our logo com
 
 #### Horizontal version of the logo
 
-Used in cases where a horizontal logo fits better, e.g.: site headers, etc.
+Used in cases where a horizontal logo fits better, e.g. site headers, etc.
 
 ![codebar logo horizontal version](/images/codebar-logo-horizontal.png)
 
