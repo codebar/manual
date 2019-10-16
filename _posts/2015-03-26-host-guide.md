@@ -36,7 +36,7 @@ So you've decided to become a sponsor and host a codebar workshop? Awesome, than
 
 - If the workshop has a confirmed lightning talk or you are doing one, set up the projector or screen so it's ready to go. It might be a good idea to have a selection of connectors on hand so people with a wide variety of machines can plug into it.
 
-- If it is possible, please label one of your toilets as gender neutral. We recommend using [this sign](http://www.uua.org/sites/live-new.uua.org/files/documents/lgbtq/gender_neutral_bathroom_11x17.pdf).
+- If it is possible, please label one of your toilets as gender neutral. We recommend using [this sign](https://www.refugerestrooms.org/rr-sign-no-handi.pdf).
 
 - Please have your (guest) WiFi details displayed in prominent places.
 
