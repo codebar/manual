@@ -13,7 +13,7 @@ title: "Organiser Guide"
 
 - **WiFi and power**. The venue needs to have a fairly good and stable internet connection and enough power sockets for all the student laptops.
 
-- If it is possible please ask the host to label one of their toilets as gender neutral. We recommend using [this sign.](http://www.uua.org/sites/live-new.uua.org/files/documents/lgbtq/gender_neutral_bathroom_11x17.pdf)
+- If it is possible please ask the host to label one of their toilets as gender neutral. We recommend using [this sign](https://www.refugerestrooms.org/rr-sign-no-handi.pdf).
 
 #### Anything else?
 
@@ -43,7 +43,6 @@ If you don't have access to a printer at work, ask your host if they are able to
 
 You can also use different color stickers for the organisers and anyone helping out so that attendees know who to speak to if they need any help.
 
-
 ### At the event
 
 As people arrive at the event check them in through the workshop admin page, and double check what tutorials the students have signed up for so that you can pair them up prior to the event. Also, make sure you give them their name tag. Doing all of this will enable you to track demand and enforce the codebar attendance policy. The coaches will also only start appearing in the [coach ranking](https://codebar.io/coaches) after their attendance is confirmed.
@@ -52,7 +51,7 @@ Make sure the WiFi details are displayed in prominent places.
 
 Depending on the size of the event we tend to spend the first half an hour having food and socialising before we pair people up around 19:00 (if we start at 18:30) and get started with coding. In some of our chapters we also run 5-minute lightning talks before we pair up the students and coaches. You are encouraged to try things out and see how it works better for you. Just remember to keep things running smoothly and allow the students at least 1:30 hour, if not more, of learning.
 
-Double check that the host has labelled one of their toilets as gender neutral. We recommend using [this sign.](http://www.uua.org/sites/live-new.uua.org/files/documents/lgbtq/gender_neutral_bathroom_11x17.pdf)
+Double check that the host has labelled one of their toilets as gender neutral.  We recommend using [this sign](https://www.refugerestrooms.org/rr-sign-no-handi.pdf).
 
 ### Pairing
 
@@ -63,7 +62,6 @@ If you have a lot of attendees, then you might need multiple organisers to help 
 ### After the event
 
 Encourage them to come to any social events following the workshop. Usually people don't get that much time to interact at the events and this enables them to expand their tech social circle, find out about opportunities and meet like-minded people.
-
 
 ## Dealing with problems
 
