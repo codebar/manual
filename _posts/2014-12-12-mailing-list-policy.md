@@ -3,9 +3,9 @@ layout: post
 title:  "Mailing List Policy"
 ---
 
-codebar is a non profit dedicated to promoting diversity in the technology/software development industry. We encourage active involvement in the tech community and are keen to communicate information to our students that would benefit their education.
+codebar is a charity dedicated to promoting diversity in the technology development industry. We encourage active involvement in the tech community and are keen to communicate information to our students that would benefit their education.
 
-We have a dedicated mailing list for our students, as well as regular emails inviting them to upcoming events. If you would like to offer us something we would love to hear from you, but ask that you adhere to the following principles:
+We have a dedicated mailing list for our community, as well as regular emails inviting them to upcoming events. If you would like to offer us something we would love to hear from you, but ask that you adhere to the following principles:
 
 - **No paid courses**. We spend a lot of our time trying to create opportunities and run free events. If you would like to run a free version of your course for us or offer free spots to an event you are running, we would love to hear from you.
 

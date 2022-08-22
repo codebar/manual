@@ -7,7 +7,7 @@ title: "Organiser Guide"
 
 #### What do I need from a host?
 
-- **Space**. The requirements are different depending on the city. A workshop can be as small as 5-6 people or as big as 80 - or more if you have enough people helping out! Just make sure that the venue details are configured properly in the application before you send out any invitations.
+- **Space**. The requirements are different depending on the city. A workshop can be as small as 5-6 people or as big as 70 - or more if you have enough people helping out! Just make sure that the venue details are configured properly in the website before you send out any invitations.
 
 - **Desks and chairs**. Make sure there are enough tables and chairs for everyone.
 
@@ -35,7 +35,7 @@ A few days out from the event, review the list of students for first-time attend
 
 Giving people name badges helps out a lot. Remembering new names can be hard, especially for newcomers and this enables the attendees to always know who they are talking to and if they are a student or a coach, to avoid confusion.
 
-If the attendee list is long, you might want to have the labels printed instead. One of our sponsors has been kind enough to provide us with a free professional account at their label providing service and you can use to generate the addressing label template. You can to find the details in our shared password vault.
+If the attendee list is long, you might want to have the labels printed instead. One of our sponsors has been kind enough to provide us with a free professional account at their label providing service and you can use to generate the addressing label template. You can to find the login in 1password.
 
 You will then have to get the list of the event attendees so you can import it and generate the template. You can do that by clicking *Export attendees* on the workshop's admin page. The list of attendees can also be retrieved by appending `.csv` to any invitation URL.
 
@@ -49,7 +49,7 @@ As people arrive at the event check them in through the workshop admin page, and
 
 Make sure the WiFi details are displayed in prominent places.
 
-Depending on the size of the event we tend to spend the first half an hour having food and socialising before we pair people up around 19:00 (if we start at 18:30) and get started with coding. In some of our chapters we also run 5-minute lightning talks before we pair up the students and coaches. You are encouraged to try things out and see how it works better for you. Just remember to keep things running smoothly and allow the students at least 1:30 hour, if not more, of learning.
+Depending on the size of the event we tend to spend the first half an hour having food and socialising before we pair people up around 19:00 (if we start at 18:30) and get started with coding. Some of our chapters run 5-minute lightning talks before they pair up the students and coaches. You are encouraged to try things out and see how it works better for you. Just remember to keep things running smoothly and allow the students at least 1:30 hour, if not more, of learning.
 
 Double check that the host has labelled one of their toilets as gender neutral.  We recommend using [this sign](https://www.refugerestrooms.org/rr-sign-no-handi.pdf).
 
@@ -63,6 +63,8 @@ If you have a lot of attendees, then you might need multiple organisers to help 
 
 Encourage them to come to any social events following the workshop. Usually people don't get that much time to interact at the events and this enables them to expand their tech social circle, find out about opportunities and meet like-minded people.
 
+Make sure to send a thank you tweet/instagram ETC to the host, with a photo from the workshop attached.
+
 ## Dealing with problems
 
 Part of your job as organiser is to make sure that everyone feels welcome and comfortable. This might occasionally mean that you have to deal with small issues or potentially ban people from attending future codebar events.
@@ -73,4 +75,4 @@ If someone comes to you with a complaint, act on it promptly. If attendees are i
 
 For difficult eligibility conversations, it often helps to remind people that our coaches, organisers and hosts donate their time and money to help those who have faced unfair barriers to entry into the tech world.
 
-If you feel that you are unable to deal with this, you are more than welcome to send an email to <hello@codebar.io> and we will do our best to help you out or deal with any issues.
+If you feel that you are unable to deal with this, you are more than welcome to send an email to <hello@codebar.io>, or send Kimberley Cook a message on Slack, and we will do our best to help you out or deal with any issues.

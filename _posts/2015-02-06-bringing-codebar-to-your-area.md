@@ -7,13 +7,13 @@ title: "Bringing codebar to your area"
 
 - Part of our goal is to enable people to easily start a codebar chapter and organise workshops in their city, and to support them throughout the process in any way we can. If this is something that you would like to do, we suggest that you first try and find a host for the first two workshops and sponsors that can provide you with food.
 
-- We will add your chapter to the codebar application and provide you with organiser access, a mailing list where people subscribed to your city can reach out to you and more information on how to use the app to announce and invite people to workshops.
+- We will add your chapter to the codebar website and provide you with organiser access, a mailing list where people subscribed to your city can reach out to you and more information on how to use the app to announce and invite people to workshops.
 
-- We will also set up a Twitter handle for you through which you can promote your chapter and workshops.
+- We will also set up any social media accounts you'd like, which you can use to promote your chapter and workshops.
 
 We can also help with:
 
-- promoting your chapter through our Twitter account [@codebar](https://twitter.com/codebar) with 7500+ followers and growing
+- promoting your chapter through our Twitter account [@codebar](https://twitter.com/codebar) with 9600+ followers and growing
 
 - reaching out to potential venues, sponsors and coaches in your city
 

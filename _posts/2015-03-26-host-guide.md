@@ -17,7 +17,7 @@ So you've decided to become a sponsor and host a codebar workshop? Awesome, than
 
 - Find a food supplier for the event. It’s important to provide vegetarian, vegan and gluten-free options too. If you need help finding places to order from, get in touch with the codebar organiser(s) and they'll help you find a place.
 
-- As well as food, most of our hosts provides drinks too. If you're planning on serving alcohol, please supply a non-alcoholic option as well. Please at least supply water.
+- As well as food, most of our hosts provides drinks too. Alcohol is not required. Please at least supply water.
 
 - Check if you have suitable WiFi in your office/event space. If you are expecting more than 20 people at the workshop, plan for a large number of people all trying to connect to the network at once.
 

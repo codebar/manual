@@ -5,9 +5,9 @@ title:  "Sponsoring"
 
 ### About codebar
 
-codebar is a charity that has been running free weekly coding workshops since October 2013, with London as its first chapter. Since then we have expanded to running workshops in 23 different cities around the world, from Brighton, Manchester, Edinburgh, New York City, Berlin and Sydney, and the list goes on.
+codebar is a charity that has been running free weekly coding workshops since October 2013, with London as its first chapter. Since then we have expanded to running workshops in 37 locations around the world - from Brighton, Manchester, Edinburgh, New York City, Berlin and Sydney, and the list goes on.
 
-We have coached over 12,000 students, with new people attending our events every week. Because of this our developer base has grown rapidly in a short period of time, but it has also substantially increased demand for space, coaches and resources. This in turn requires a substantial expansion in sponsorship investment so that we can not just run workshops, but also be able to provide help and support to our smaller chapters.
+We have coached over 14,000 students, with new people attending our events every week. Because of this our developer base has grown rapidly in a short period of time, but it has also substantially increased demand for space, coaches and resources. This in turn requires a substantial expansion in sponsorship investment so that we can not just run workshops, but also be able to provide help and support to our smaller chapters.
 
 All of codebar’s events are run on a volunteer basis, with every subject expert and coach giving their time for free.
 
@@ -24,11 +24,11 @@ Whatever investment you choose, your logo will appear on the codebar website alo
 
 ### How can you sponsor?
 
-There are different ways that you can help and support our vibrant and growing community. You can be a regular workshop supporter and offer your venue and food to a substantial amount of workshops taking place in your area or be a workshop supporter and help by taking care of one of our workshops every now and then.
+There are different ways that you can help and support our vibrant and growing community. You can be a regular workshop supporter and offer your venue and food to a substantial amount of workshops taking place in your area.
 
 We also welcome monetary sponsorship to help us cover other expenses. The best way to make a monetary contribution is to use our online [donation portal](https://codebar.enthuse.com/donate/#!/).
 
-You can also come on board as a codebar partner, this will be a 12 month partnership were we will collaborate several times throughout the 12 months. If you're interested in this option, please drop us an email <hello@codebar.io>.
+You can also come on board as a codebar partner for a 12 month partnership. If you're interested in this option, please drop us an email <hello@codebar.io>.
 
 
 ### Why sponsor us
@@ -42,15 +42,16 @@ Sponsoring us is also a great way to attract fresh and passionate talent to your
 
 #### What your sponsorship money is being used for
 
-- Our infrastructure costs (we pay all services we use to manage both technical and administrative aspects of codebar from hosting, to accounting etc)
+- Our infrastructure costs (we pay for all the services we use to manage both technical and administrative aspects of codebar from hosting, to accounting etc)
 - Promotional materials to help get the word out
 - Support for chapters that are at times unable to find local sponsorship for their workshops
 - Running more specialised events (all our events are free and run by volunteers - but we still need to handle food catering, marketing, planning and other administrative costs)
+- Travel cost reimbursement for students attending our workshops
 
 ### What do you get in return?
 
 Whatever your investment, you can be proud knowing that you are an active member of this flourishing sector, enabling people to find jobs, enhance their existing careers and substantially improve the quality of life of those who are often discriminated against.
 
-Depending on your level of sponsorship, we will also list your logo and link on our website, thank you on Twitter, mention you in our bi-monthly newsletter and you will be welcome to distribute your marketing collateral at our events.
+Depending on your level of sponsorship, we will also list your logo and link on our website, thank you on all our socials, mention you in our bi-monthly newsletter and you will be welcome to distribute your marketing collateral at our events.
 
 We look forward to welcoming you to our evolving community!
