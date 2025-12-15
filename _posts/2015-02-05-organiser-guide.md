@@ -63,7 +63,7 @@ If you have a lot of attendees, then you might need multiple organisers to help 
 
 Encourage them to come to any social events following the workshop. Usually people don't get that much time to interact at the events and this enables them to expand their tech social circle, find out about opportunities and meet like-minded people.
 
-Make sure to send a thank you tweet/instagram ETC to the host, with a photo from the workshop attached.
+Make sure to send a thank you social media post, be sure to tag the host, and include a photo from the workshop attached.
 
 ## Dealing with problems
 
