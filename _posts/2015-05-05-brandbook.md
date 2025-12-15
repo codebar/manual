@@ -9,6 +9,11 @@ Welcome! This one page document is a short introduction to the codebar brand. It
 
 All of our assets can be downloaded from our [assets GitHub repository](https://github.com/codebar/assets).
 
+You can also have access to our [brand kit on Canva
+](https://www.canva.com/brand/kAD9lbXPkEg)
+
+We recommend creating assets on Canva. We have templates, logos, icons and can help you with edits if you get stuck.
+
 ### Logo
 
 Our logo, mark and wordmark comes in two colour ways. Additionally, our logo comes in vertical and horizontal versions.
