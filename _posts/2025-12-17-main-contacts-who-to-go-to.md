@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "main-contacts"
+---
+
 # Main contacts — who to go to for what
 
 ## Charlene Kuye (Volunteer Coordinator)
