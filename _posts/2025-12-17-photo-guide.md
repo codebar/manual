@@ -1,3 +1,10 @@
+
+---
+layout: post
+title:  "photo-guide"
+---
+
+
 # Photo guide for chapter workshops
 
 Photos help us celebrate the community, thank the people who make workshops possible, and show future students what codebar feels like. Here’s how to do it well (and respectfully).
