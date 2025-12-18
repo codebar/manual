@@ -11,13 +11,13 @@ This guide covers how to use the admin area of the codebar website if you are a 
 
 Once you’ve been given admin access on the codebar website you’ll see extra options in the left-hand menu, including the ability to create sponsors, create workshops, view feedback, and access your chapter admin area under **My Chapters**.
 
-![Screenshot: admin menu](TODO-add-screenshot)
+[comment]: <> (![Screenshot: admin menu](TODO-add-screenshot))
 
 ## Chapter admin area
 
 In your chapter admin area you can see upcoming workshops, view students/coaches, and see the latest subscribers.
 
-![Screenshot: chapter admin area](TODO-add-screenshot)
+[comment]: <> (![Screenshot: chapter admin area](TODO-add-screenshot))
 
 1. **Organisers list** for your chapter
 2. **Coaches and students** subscribed to your chapter  
@@ -41,7 +41,7 @@ Notes:
 - **Accessibility:** even if optional, do your best to add it (at minimum: step-free access to the workshop and bathrooms)
 - **Contact details:** the dropdown is useful if the person already has an account; otherwise add name/email manually
 
-![Screenshot: new sponsor form](TODO-add-screenshot)
+[comment]: <> (![Screenshot: new sponsor form](TODO-add-screenshot))
 
 ## Creating a workshop
 
@@ -76,13 +76,13 @@ There are two parts depending on whether the workshop is **in-person** or **virt
 
 If you want people to RSVP right away, check **Invitable**. If you only want to list it for now, leave **Invitable** unchecked.
 
-![Screenshot: new workshop form](TODO-add-screenshot)
+[comment]: <> (![Screenshot: new workshop form](TODO-add-screenshot))
 
 ## Workshop admin area
 
 Once your workshop is created you can edit it any time. Each workshop has its own admin page where you manage the workshop and attendees.
 
-![Screenshot: workshop admin page](TODO-add-screenshot)
+[comment]: <> (![Screenshot: workshop admin page](TODO-add-screenshot))
 
 ### Buttons at the top
 
@@ -97,7 +97,7 @@ Below the buttons you’ll see the venue, date, address, organisers, and student
 
 ## Attendee list
 
-![Screenshot: attendee list](TODO-add-screenshot)
+[comment]: <> (![Screenshot: attendee list](TODO-add-screenshot))
 
 1. Shows how many invitations were sent, RSVP counts, and waitlist counts (students/coaches).
 2.
