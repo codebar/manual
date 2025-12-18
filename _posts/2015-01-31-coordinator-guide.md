@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Coordinator Guide"
+weight: 80
 ---
 
 codebar workshops are a team effort and we really appreciate you wanting to help run things smoother! Here are some tips on how you can help:

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Host Guide"
+weight: 90
 ---
 
 ### Running a codebar workshop

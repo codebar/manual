@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Brandbook"
+weight: 20
 ---
 
 Welcome! This one page document is a short introduction to the codebar brand. It is very much work in progress and is meant to give you a high level overview about the Dos and Donts of the codebar brand.

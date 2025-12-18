@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Bringing codebar to your area"
+weight: 100
 ---
 
 ### Do you want to bring codebar to your city?

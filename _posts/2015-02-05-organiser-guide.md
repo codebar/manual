@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Organiser Guide"
+weight: 30
 ---
 
 ### Workshops

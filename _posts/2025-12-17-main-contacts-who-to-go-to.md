@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Main Contacts"
+weight: 110
 ---
 
 ## Charlene Kuye (Volunteer Coordinator)

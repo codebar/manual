@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Website Guide"
+weight: 50
 ---
 
 ### How to use the admin area of the codebar website (for monthly organisers)

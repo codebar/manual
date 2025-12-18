@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Creating a workshop"
+weight: 60
 ---
 
 This guide covers how to use the admin area of the codebar website if you are a chapter organiser, with a focus on creating a workshop.
