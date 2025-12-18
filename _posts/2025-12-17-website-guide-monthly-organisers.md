@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "website-guide"
+title:  "Website Guide"
 ---
-#codebar website guide
 
 ### How to use the admin area of the codebar website (for monthly organisers)
 

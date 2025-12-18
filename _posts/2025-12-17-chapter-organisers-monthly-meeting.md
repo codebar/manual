@@ -1,9 +1,7 @@
 ---
 layout: post
-title:  "chapter-organisers"
+title:  "Chapter Organisers"
 ---
-
-# Chapter organisers monthly meeting
 
 Currently, we hold a monthly chapter organiser meeting on the last Thursday of the month. These meetings are optional, but they’re a great chance to:
 

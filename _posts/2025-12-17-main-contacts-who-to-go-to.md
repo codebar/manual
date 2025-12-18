@@ -1,9 +1,7 @@
 ---
 layout: post
-title:  "main-contacts"
+title:  "Main Contacts"
 ---
-
-# Main contacts — who to go to for what
 
 ## Charlene Kuye (Volunteer Coordinator)
 Email: charlene@codebar.io
