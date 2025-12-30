@@ -10,7 +10,8 @@ weight: 50
 
 Now that you’ve been given admin access on the codebar website you’ll be able to see some extra options on the left side menu — mainly the ability to create new monthly events.
 
-> _Note:_ The original document included screenshots. Add them back later if you want, using normal image files in the repo (recommended), rather than base64 blobs.
+![admin navigation](/images/creating-a-monthly-assets/admin-navigation.png)
+
 
 ## Creating a monthly event
 
@@ -37,6 +38,8 @@ _Once your monthly event has been created you can edit it at any point._
 
 Each monthly event you create has its own admin page. It’s where you manage the event and attendees.
 
+![monthly admin area](/images/creating-a-monthly-assets/monthly-admin-area.png)
+
 ### Top buttons
 
 - **Invite** — invite members of your chapter to the workshop. You can choose **Students**, **Coaches** or **Everybody** (usually **Everybody**).
@@ -47,6 +50,8 @@ Each monthly event you create has its own admin page. It’s where you manage th
 You’ll also see key event info (venue, date, address, organisers, number of spaces), and the event description (often speaker info).
 
 ### Attendee list
+
+![monthly attendee list](/images/creating-a-monthly-assets/attendee-list.png)
 
 - **a)** At the top you can see how many people have RSVP’d.
 - **b)** You may see a dropdown to manually add someone (who has been email-invited) from your chapter.
