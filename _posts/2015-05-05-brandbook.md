@@ -1,13 +1,19 @@
 ---
 layout: post
 title:  "Brandbook"
+weight: 20
 ---
 
-Welcome! This one page document is a short introduction to the codebar brand. It is very much work in progress and is meant to give you a high level overview about the Dos and Donts of the codebar brand.
+Welcome! This one page document is a short introduction to the codebar brand. It is very much a work in progress and is meant to give you a high level overview about the Dos and Donts of the codebar brand.
 
 ## Assets
 
 All of our assets can be downloaded from our [assets GitHub repository](https://github.com/codebar/assets).
+
+You can also have access to our [brand kit on Canva
+](https://www.canva.com/brand/kAD9lbXPkEg)
+
+We recommend creating assets on Canva. We have templates, logos, icons and can help you with edits if you get stuck.
 
 ### Logo
 
