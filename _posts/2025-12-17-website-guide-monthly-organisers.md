@@ -89,7 +89,7 @@ Every member of the codebar community has an admin area. You can view personal i
 
 ## Updating sponsor information
 
-If a sponsor moves, changes URL, changes logo, etc:
+You can update sponsor information at any time. Specially useful if workshop numbers change, the company updates their logo or moves office. To do this :
 
 1. Go to https://codebar.io/admin/sponsors
 2. Find your sponsor and click **Edit**

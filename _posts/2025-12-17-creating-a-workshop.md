@@ -6,8 +6,6 @@ weight: 60
 
 This guide covers how to use the admin area of the codebar website if you are a chapter organiser, with a focus on creating a workshop.
 
-> **Screenshots:** The original doc includes screenshots. Add them as normal image files in the repo (recommended) and link them here, rather than pasting base64 images into the Markdown.
-
 ## Intro
 
 Once you’ve been given admin access on the codebar website you’ll see extra options in the left-hand menu, including the ability to create sponsors, create workshops, view feedback, and access your chapter admin area under **My Chapters**.
@@ -111,3 +109,37 @@ Below the buttons you’ll see the venue, date, address, organisers, and student
   - Next to the students name you can see what they wish to work on during the workshop
   - Each attendee is a hyperlink, which takes you to their member admin area.
 
+## Waitlist
+
+Once spaces are filled up, a waitlist will appear. As people drop out, the next person is automatically sent an email and offered a space.
+
+## Member admin area
+
+Every member of the codebar community has an admin area. You can view personal info, remove chapter subscriptions, see attendance history, send attendance/eligibility emails, leave notes, and ban members.
+
+### Actions
+
+- **Ban** — ban someone (e.g. bad attendance or code of conduct issues). You can choose the ban duration.
+- **Note** — add a note to someone’s profile (eligibility, behaviour, etc.).
+- **Eligibility** — send an eligibility email if you’re unsure whether a student is eligible.  
+  _Note: a member who is only subscribed as a coach won’t have this button._
+- **Attendance** — send an attendance email if someone repeatedly RSVPs and doesn’t show up.
+
+### What you’ll see on the page
+
+1. Action buttons (Ban / Note / Eligibility / Attendance)
+2. Personal information
+3. Chapters the member subscribes to (remove a subscription using the **X** next to the chapter)
+4. RSVP vs attended counts (useful when deciding whether to send an attendance email)
+5. List of workshops/events they RSVP’d to:
+   - A **tick** indicates they attended
+   - A **!** indicates they RSVP’d but didn’t show up
+   - Monthlies attended may be listed underneath too
+
+## Updating sponsor information
+
+You can update sponsor information at any time. Specially useful if workshop numbers change, the company updates their logo or moves office. To do this :
+
+1. Go to https://codebar.io/admin/sponsors
+2. Find your sponsor and click **Edit**
+3. Make changes and click **Save**
