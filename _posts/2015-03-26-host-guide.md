@@ -14,9 +14,9 @@ So you've decided to become a sponsor and host a codebar workshop? Awesome, than
 
 - You’re welcome to invite up to five of your own guests to study at the workshop - just let us know who you’ll be bringing along.
 
-- To help us spread the word further, send us a transparent png version of your logo and we’ll set you up on the events page on our site.
+- To help us spread the word further, send us a transparent png version of your company logo and we’ll set you up on the workshop page on our website.
 
-- Find a food supplier for the event. It’s important to provide vegetarian, vegan and gluten-free options too. If you need help finding places to order from, get in touch with the codebar organiser(s) and they'll help you find a place.
+- Find a food supplier for the workshop. It’s important to provide vegetarian, vegan and gluten-free options too. If you need help finding places to order from, get in touch with the codebar organiser(s) and they'll help you find a place.
 
 - As well as food, most of our hosts provides drinks too. Alcohol is not required. Please at least supply water.
 
@@ -46,4 +46,4 @@ So you've decided to become a sponsor and host a codebar workshop? Awesome, than
 
 #### At the workshop
 
-One of the organisers will be at the venue around 6:00PM (30 minutes before official start time) to help you set up the space and check people in. Sessions usually last two and a half hours. Relax, have fun and enjoy your time as a codebar workshop host, and once again thank you very much.
+One of the organisers will be at the venue around 6:00PM (30 minutes before official start time) to help you set up the space and check people in. Workshops usually last two and a half hours. Relax, have fun and enjoy your time as a codebar workshop host, and once again thank you very much.

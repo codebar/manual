@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Website Guide"
+title:  "Website Guide (Monthly Organisers)"
 weight: 50
 ---
 

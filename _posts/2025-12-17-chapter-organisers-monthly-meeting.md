@@ -14,7 +14,7 @@ Currently, we hold a monthly chapter organiser meeting on the last Thursday of t
 
 ## How to bring something to the meeting
 
-- If you have a topic/question, add it ahead of time (via the meeting issues list) so it can be included on the agenda.
+- If you have a topic/question, add it ahead of time (via the meeting [issues list](https://github.com/codebar/chapter-organiser-meetings/issues)) so it can be included on the agenda.
 - Before the meeting, take a look at the open topics and upvote the ones you’d like discussed — we’ll prioritise the most upvoted items.
 
 ## During and after

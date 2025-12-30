@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Creating a workshop"
+title: "Website Guide (Chapter Organisers)"
 weight: 60
 ---
 

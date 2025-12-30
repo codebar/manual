@@ -26,10 +26,10 @@ Photos help us celebrate the community, thank the people who make workshops poss
 
 ## Quick photography tips
 
-You don’t need expensive equipment to capture the fun and community spirit of a codebar event. Here are some tips:
+You don’t need expensive equipment to capture the fun and community spirit of a codebar workshop. Here are some tips:
 
 - Natural light is best (stand near windows if possible).
-- Take a few versions of each shot—people blink!
+- Take a few versions of each shot — people blink!
 - Keep it candid but considerate: Don’t interrupt learning; take photos quickly and move on.
 - Prioritise comfort: If someone looks uncomfortable, don’t take the photo.
 

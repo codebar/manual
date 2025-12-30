@@ -6,7 +6,7 @@ weight: 100
 
 ### Do you want to bring codebar to your city?
 
-- Part of our goal is to enable people to easily start a codebar chapter and organise workshops in their city, and to support them throughout the process in any way we can. If this is something that you would like to do, we suggest that you first try and find a host for the first two workshops and sponsors that can provide you with food.
+- Part of our goal is to enable people to easily start a codebar chapter and organise workshops in their city, and to support them throughout the process in every way we can. If this is something that you would like to do, we suggest that you first try and find a host for the first two workshops and sponsors that can provide you with food and drink.
 
 - We will add your chapter to the codebar website and provide you with organiser access, a mailing list where people subscribed to your city can reach out to you and more information on how to use the website to announce and invite people to workshops.
 
