@@ -38,7 +38,8 @@ If the company has **never hosted a codebar workshop before**, you’ll need to 
 Notes:
 - **Website:** usually the company website, unless they ask you to link elsewhere
 - **Avatar:** ask for a transparent-background PNG logo
-- **Address:** you don’t need latitude/longitude unless the map pin is wrong; **Directions** are useful if the location is hard to find
+- **Address:** you don’t need latitude/longitude unless the map pin is wrong; 
+- **Directions** are useful if the location is hard to find
 - **Accessibility:** even if optional, do your best to add it (at minimum: step-free access to the workshop and bathrooms)
 - **Contact details:** the dropdown is useful if the person already has an account; otherwise add name/email manually
 
@@ -101,4 +102,3 @@ Below the buttons you’ll see the venue, date, address, organisers, and student
 [comment]: <> (![Screenshot: attendee list](TODO-add-screenshot))
 
 1. Shows how many invitations were sent, RSVP counts, and waitlist counts (students/coaches).
-2.

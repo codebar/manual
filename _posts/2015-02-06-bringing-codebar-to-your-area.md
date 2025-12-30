@@ -14,7 +14,7 @@ weight: 100
 
 We can also help with:
 
-- promoting your chapter through our newslettert with over 12000+ subscribers and growing
+- promoting your chapter through our newsletter with over 12,000+ subscribers and growing
 
 - reaching out to potential venues, sponsors and coaches in your city
 
