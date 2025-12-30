@@ -12,6 +12,10 @@ header {
   margin-bottom: 50px;
 }
 
+img {
+  width: 100%;
+}
+
 h1 {
   font-size: 2.5rem;
   color: #000;
@@ -142,8 +146,4 @@ tbody tr:hover td{
 }
 .color.magenta {
   background: #ff036a;
-}
-
-img {
-  width: 100%;
 }
