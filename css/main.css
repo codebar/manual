@@ -143,3 +143,7 @@ tbody tr:hover td{
 .color.magenta {
   background: #ff036a;
 }
+
+img {
+  width: 100%;
+}

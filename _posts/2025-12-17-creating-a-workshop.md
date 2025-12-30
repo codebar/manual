@@ -12,13 +12,13 @@ This guide covers how to use the admin area of the codebar website if you are a 
 
 Once you’ve been given admin access on the codebar website you’ll see extra options in the left-hand menu, including the ability to create sponsors, create workshops, view feedback, and access your chapter admin area under **My Chapters**.
 
-[comment]: <> (![Screenshot: admin menu](TODO-add-screenshot))
+![admin navigation](/images/creating-a-workshop-assets/admin-navigation.png)
 
 ## Chapter admin area
 
 In your chapter admin area you can see upcoming workshops, view students/coaches, and see the latest subscribers.
 
-[comment]: <> (![Screenshot: chapter admin area](TODO-add-screenshot))
+![chapter admin area](/images/creating-a-workshop-assets/chapter-admin-area.png)
 
 1. **Organisers list** for your chapter
 2. **Coaches and students** subscribed to your chapter  
@@ -43,7 +43,7 @@ Notes:
 - **Accessibility:** even if optional, do your best to add it (at minimum: step-free access to the workshop and bathrooms)
 - **Contact details:** the dropdown is useful if the person already has an account; otherwise add name/email manually
 
-[comment]: <> (![Screenshot: new sponsor form](TODO-add-screenshot))
+![adding a new sponsor](/images/creating-a-workshop-assets/new-sponsor.png)
 
 ## Creating a workshop
 
@@ -78,13 +78,13 @@ There are two parts depending on whether the workshop is **in-person** or **virt
 
 If you want people to RSVP right away, check **Invitable**. If you only want to list it for now, leave **Invitable** unchecked.
 
-[comment]: <> (![Screenshot: new workshop form](TODO-add-screenshot))
+![creating a new workshop](/images/creating-a-workshop-assets/new-workshop.png)
 
 ## Workshop admin area
 
 Once your workshop is created you can edit it any time. Each workshop has its own admin page where you manage the workshop and attendees.
 
-[comment]: <> (![Screenshot: workshop admin page](TODO-add-screenshot))
+![workshop admin page](/images/creating-a-workshop-assets/workshop-admin-page.png)
 
 ### Buttons at the top
 
@@ -99,6 +99,15 @@ Below the buttons you’ll see the venue, date, address, organisers, and student
 
 ## Attendee list
 
-[comment]: <> (![Screenshot: attendee list](TODO-add-screenshot))
+![attendee list](/images/creating-a-workshop-assets/attendee-list.png)
 
 1. Shows how many invitations were sent, RSVP counts, and waitlist counts (students/coaches).
+2. This drop down allows you to manually add someone (who has been email invited) from your chapter to the workshop if you need.
+3. On the left you have your list of students for the workshop and on the right you have your list of coaches. 
+  - If you see a paw print next to someone's name it means this is their first time attending a codebar workshop.
+  - If you see a “!” sign, it means someone has RSVP’d and not shown up more than 2 times.
+  - If someone has added dietary requirements you will see this under their name
+  - The minus symbol next to someone's name means you can remove them from the workshops. Commonly used when someone emails beforehand saying they can no longer attend. This minus symbol changes at the start time of your workshop to a checkbox so you can check people in.
+  - Next to the students name you can see what they wish to work on during the workshop
+  - Each attendee is a hyperlink, which takes you to their member admin area.
+
