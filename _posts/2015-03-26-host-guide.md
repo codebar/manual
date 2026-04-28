@@ -47,3 +47,6 @@ So you've decided to become a sponsor and host a codebar workshop? Awesome, than
 #### At the workshop
 
 One of the organisers will be at the venue around 6:00PM (30 minutes before official start time) to help you set up the space and check people in. Workshops usually last two and a half hours. Relax, have fun and enjoy your time as a codebar workshop host, and once again thank you very much.
+
+### Other info
+If your company is currently hiring juniors; codebar has a [job board](https://jobs.codebar.io/) you can advertise your roles on. 
