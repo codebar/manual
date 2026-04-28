@@ -50,6 +50,8 @@ As people arrive at the workshop check them in through the workshop admin page, 
 
 Make sure the WiFi details are displayed in prominent places.
 
+We recommend showing [this presentation](https://canva.link/h7rglimo1rsg65i) at the start of each workshop to let attendees know what codebar is and to show them how they can support us. 
+
 Depending on the size of the workshop we tend to spend the first half an hour having food and socialising before we pair people up around 19:00 (if we start at 18:30) and get started with coding. Some of our chapters run 5-minute lightning talks before they pair up the students and coaches. You are encouraged to try things out and see how it works better for you. Just remember to keep things running smoothly and allow the students at least 1:30 hour, if not more, of learning.
 
 Double check that the host has labelled one of their toilets as gender neutral.  We recommend using [this sign](https://www.refugerestrooms.org/rr-sign-no-handi.pdf).
