@@ -15,15 +15,6 @@ Go to Charlene for anything related to the smooth running of your chapter, inclu
 - Ordering stationery and chapter supplies
 - Support for coaches (new and existing), including ensuring they have the training and support they need to coach confidently
 
-## Arora Ashani (Community Manager)
-Email: arora@codebar.io
-
-Go to Arora for anything related to community growth and events, including:
-
-- Running events and workshops
-- Support with growing your chapter community
-- Increasing and supporting student numbers
-
 ## Kimberley Cook (codebar Director)
 Email: kimberley@codebar.io
 
