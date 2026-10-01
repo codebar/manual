@@ -28,6 +28,8 @@ So you've decided to become a sponsor and host a codebar workshop? Awesome, than
 
 - It would be really helpful if you could print name tags on the day of the workshop. If you can, make sure you have some printing labels to hand - you can find them at any office supplies store or even your local supermarket. We usually use 2 x 7 layout.
 
+- We suggest an optional £30 donation to help cover our chapters' basic infrastructure costs. While not at all mandatory, your contribution is hugely appreciated and helps us keep doing what we do. 
+[👉 Donate here ](https://codebar.enthuse.com/donate#!/)
 
 #### On the day of the workshop
 
