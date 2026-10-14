@@ -1,0 +1,72 @@
+---
+layout: post
+title: "Social Media Guide"
+weight: 90
+---
+
+**Main Channels**
+-----------------
+
+The global codebar team operates the official primary accounts under the handle **@codebarhq**. Global channels are used for high-level announcements, organization-wide fundraising, scaling initiatives, and major impact storytelling. 
+
+Local chapters are strongly encouraged to launch and manage accounts tailored specifically to their regional tech ecosystems, ensuring a personalized connection to local student pools, coach networks, and corporate sponsors.
+
+**Selecting the Right Platform**
+--------------------------------
+
+To prevent volunteer burnout and ensure long-term consistency, we strictly advise chapters to focus on a single platform initially rather than overcommitting to multiple platforms simultaneously. Our chapters have seen the highest historical engagement and conversion rates using the following networks:
+
+*   **LinkedIn:** Exceptional for reaching professional software engineers looking to volunteer as coaches, discovering corporate sponsors for venues/catering, and helping graduating students share their landing stories.
+    
+*   **Instagram:** Ideal for visual storytelling, documenting the highly welcoming, friendly vibe of workshops, and providing behind-the-scenes looks that ease the anxiety of new students attending for the first time.
+    
+
+Choose the platform that matches your team's existing comfort levels and where your local tech ecosystem is most active. It is far better to have one highly active account than three abandoned ones.
+
+**Account Setup & Mandatory Administration**
+--------------------------------------------
+
+When your local chapter decides to set up a new social media profile, please adhere strictly to the following administrative rules:
+
+1.  **Pre-Setup Consultation:** Before registering a handle, reach out to the core HQ team. We can provide you with pre-approved branding materials, custom chapter logos, and verify handle availability.
+    
+2.  **Naming Conventions:** Use a standard and consistent naming format so users immediately recognize your account as an official codebar wing (e.g., @codebar\[CityName\] or codebar \[CityName\]).
+    
+3.  **Administrative Safety (HQ Admin):** During the account registration process, you must add an official global HQ member as a full administrator or co-owner. This ensures codebar retains operational continuity, prevents account loss due to organiser churn, and enables global amplification of your local content.
+    
+
+**Visual Branding & Canva Best Practices**
+------------------------------------------
+
+Consistency builds trust. All visual collateral used across local channels must adhere strictly to codebar's official brand guidelines. To make this seamless for busy local organisers, the global design team maintains a rich library of pre-formatted, highly customizable graphic templates on Canva.
+
+When utilizing these Canva brand assets, always practice the following workflow:
+
+*   **Always Duplicate:** Never edit the master layout or existing template directly. Instead, open the template file, duplicate the specific page you want to use, and perform your local edits (such as dates, locations, or sponsor logos) on that duplicated copy.
+    
+*   **Maintain Brand Collateral:** Do not modify the core typography, official brand color palettes, rotation or aspect ratios of the logo elements without prior clearance from HQ.
+    
+
+**Digital Accessibility & Alt Text**
+------------------------------------
+
+As an organization fundamentally rooted in breaking down barriers and advancing diversity, digital accessibility is a non-negotiable standard for all codebar communications. When publishing visual media, always implement the following accessibility criteria:
+
+*   **Alternative Text (Alt Text):** When uploading any image, infographic, or photo, you must fill out the platform's native Alt Text field. Describe what is happening in the picture clearly and concisely (e.g., "A smiling coach guiding two students through a Python programming exercise on a laptop at a codebar workshop"). This allows visually impaired community members using screen readers to experience your content fully.
+    
+*   **CamelCase Hashtags:** Capitalize the first letter of each distinct word in your hashtags (e.g., use #CodebarLondon or #LearnToCode instead of #codebarlondon or #learntocode). Screen readers read CamelCase text as separate words, whereas lowercase blocks are often read as a single unpronounceable string.
+    
+
+**Tone of Voice Guidelines**
+----------------------------
+
+The tone of voice for all codebar extensions should always be friendly, encouraging, professional, inclusive, and fundamentally accessible. We steer clear of overly complex gatekeeping jargon and focus on cultivating a highly psychologically safe space for absolute beginners.
+
+|**Core Trait**| **What it Means** | **Example Post Pattern**|
+| ------------- | ------------- | ------------ |
+| **Welcoming & Inclusive** | Lowering barriers to entry for underrepresented groups. Explicitly highlighting that no prior tech experience is required.| "Curious about software development but don't know where to start? Join us at our next local workshop! Absolutely zero coding experience required. 💻✨"|
+| **Encouraging & Supportive** | Celebrating progress, individual learning journeys, small breakthroughs, and overcoming software bugs.| "Huge congratulations to our student Alex for pushing their very first repository to GitHub tonight! Overcoming that git merge conflict is a true milestone! 🎉"|
+|**Professional yet Personable**| Maintaining organizational integrity and absolute respect for our hosts and partners, combined with a warm community vibe. | "A massive shoutout to the wonderful team at \[Sponsor Company\] for hosting our community tonight and keeping our minds sharp with excellent mentoring spaces and pizza! 🍕" |
+
+
+We also recommend reading the speaker guide and applying it to social media posts: [https://manual.codebar.io/speaker-guide.html](https://manual.codebar.io/speaker-guide.html)
